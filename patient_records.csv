@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Latitude,Longitude,Timestamp,Symptoms,Diagnosis,Medication,Outcome
+1,42,Male,24.682679092295015,46.598300393380256,2023-10-17,"Headache, Diarrhea, Fatigue",Influenza,Paracetamol + Rest,Recovery
+2,30,Male,24.63838435944094,46.54568833357501,2023-09-26,"Fatigue, Cough, Sore Throat",COVID-19,Molnupiravir,Recovery
+3,45,Female,24.745517451041916,46.62968791725258,2023-11-04,Sore Throat,Allergic Reaction,Loratadine,Recovery
+4,70,Female,24.847645044602313,46.6934426620114,2023-07-17,"Body Aches, Sore Throat, Nausea, Fatigue",Influenza,Relenza,Recovery
+5,29,Male,24.526082753035425,46.73480294658356,2023-07-10,"Body Aches, Vomiting",COVID-19,Dexamethasone,Recovery
+6,29,Female,24.725102607914742,46.61955769468917,2023-01-20,"Diarrhea, Fatigue, Sore Throat",Influenza,Xofluza,Recovery
+7,72,Male,24.697586720443336,46.634000217785655,2023-01-26,"Vomiting, Fatigue, Shortness of Breath, Body Aches, Diarrhea",COVID-19,Molnupiravir,Recovery
+8,48,Female,24.780734007645044,46.58263016911527,2023-10-22,Fever,Bronchitis,Benzonatate,Recovery
+9,26,Female,24.734919662823767,46.67215608296252,2023-03-15,"Fatigue, Fever, Shortness of Breath",Influenza,Xofluza,Hospitalization
+10,43,Female,24.63840306682612,46.590457136580916,2023-01-29,"Fatigue, Body Aches, Cough",Influenza,Paracetamol + Rest,Recovery
+11,26,Female,24.68169460643334,46.73261278132412,2023-06-30,Shortness of Breath,Stomach Virus,Pepto-Bismol,Recovery
+12,26,Female,24.63399741431965,46.49671335080659,2023-07-11,"Sore Throat, Cough",COVID-19,Molnupiravir,Recovery
+13,37,Male,24.82120071385986,46.63933703275475,2023-10-08,"Shortness of Breath, Nausea",Influenza,Relenza,Recovery
+14,12,Female,24.715731164867194,46.70541073391917,2023-07-28,"Diarrhea, Vomiting, Nausea, Shortness of Breath",COVID-19,Paxlovid,Hospitalization
+15,13,Male,24.9037190685753,46.69368345163225,2023-05-05,Body Aches,Common Cold,Paracetamol,Recovery
+16,24,Female,24.707533918618537,46.94460336639805,2023-09-30,"Fever, Body Aches, Shortness of Breath, Headache",Influenza,Tamiflu,Recovery
+17,19,Female,24.642759323308955,46.71028000245679,2023-01-24,"Diarrhea, Fatigue, Nausea, Shortness of Breath, Sore Throat",Pneumonia,Levofloxacin,Hospitalization
+18,38,Female,24.562228560738717,46.574894540315796,2023-07-30,"Shortness of Breath, Vomiting",Respiratory Infection,Amoxicillin,Recovery
+19,21,Male,24.533286032374406,46.66575357529109,2023-07-27,"Fatigue, Body Aches, Shortness of Breath, Vomiting, Sore Throat",COVID-19,Molnupiravir,Recovery
+20,16,Female,24.55518640569945,46.497675366653354,2023-01-27,"Fever, Sore Throat, Vomiting",Influenza,Relenza,Hospitalization
+21,68,Female,24.740312665101147,46.66724002507032,2023-12-01,"Shortness of Breath, Sore Throat, Cough",Common Cold,Nyquil,Recovery
+22,29,Female,24.76447250232299,46.591994394299924,2023-10-09,"Diarrhea, Shortness of Breath, Vomiting, Headache, Cough",Respiratory Infection,Levofloxacin,Recovery
+23,34,Male,24.555480929796786,46.76683902755602,2023-02-05,"Body Aches, Sore Throat, Nausea",Influenza,Tamiflu,Recovery
+24,16,Male,24.80310383140761,46.62034597254045,2023-10-21,"Diarrhea, Nausea, Shortness of Breath",Common Cold,Nyquil,Recovery
+25,25,Male,24.665293894831656,46.66362340842048,2023-11-13,"Nausea, Vomiting",Common Cold,Sudafed,Recovery
+26,35,Male,24.728279301198555,46.61174421585956,2023-03-31,"Vomiting, Headache, Shortness of Breath, Diarrhea",COVID-19,Molnupiravir,Recovery
+27,18,Female,24.87482206282554,46.84918513518533,2023-04-22,"Headache, Diarrhea",Influenza,Relenza,Recovery
+28,39,Male,24.803283931586552,46.64317572338821,2023-01-30,"Diarrhea, Nausea",Common Cold,Sudafed,Recovery
+29,24,Other,24.686746935209417,46.85855570434792,2023-03-08,"Body Aches, Headache, Cough",Stomach Virus,Loperamide,Recovery
+30,28,Male,24.62448077745847,46.75671517621183,2023-03-31,"Fever, Cough",COVID-19,Molnupiravir,Recovery
+31,24,Male,24.498418459867068,46.723506672733535,2023-05-31,"Cough, Vomiting",Common Cold,Sudafed,Recovery
+32,83,Female,24.641684668075758,46.71217331473175,2023-11-10,Nausea,Stomach Virus,Pepto-Bismol,Recovery
+33,32,Female,24.69248697611723,46.714679729821626,2023-04-10,"Shortness of Breath, Fatigue",Influenza,Paracetamol + Rest,Recovery
+34,19,Female,24.61488204728488,46.48253274206544,2023-02-02,"Vomiting, Body Aches",Allergic Reaction,Cetirizine,Recovery
+35,49,Female,24.70047430329077,46.64741166058492,2023-09-30,"Sore Throat, Headache, Vomiting, Diarrhea, Nausea",COVID-19,Dexamethasone,Hospitalization
+36,17,Female,24.721285188295877,46.759815797118435,2023-08-04,"Shortness of Breath, Vomiting, Cough",Common Cold,Paracetamol,Recovery
+37,36,Male,24.691114401819192,46.670410281652586,2023-10-15,"Shortness of Breath, Diarrhea, Fatigue",COVID-19,Remdesivir,Recovery
+38,12,Other,24.648599741917653,46.534781015319645,2023-01-05,"Cough, Headache, Nausea, Fatigue",Respiratory Infection,Azithromycin,Recovery
+39,17,Other,24.730465467196673,46.670059554942256,2023-07-24,"Body Aches, Vomiting, Nausea",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+40,36,Female,24.75779406495694,46.84571055162555,2023-10-06,"Shortness of Breath, Fatigue",COVID-19,Remdesivir,Recovery
+41,47,Male,24.604560092255713,46.79998917155347,2023-01-19,"Headache, Diarrhea",Influenza,Relenza,Recovery
+42,36,Female,24.854693237974626,46.669099599063394,2023-10-11,"Cough, Shortness of Breath, Headache",COVID-19,Paxlovid,Hospitalization
+43,31,Male,24.703741186771573,46.77044492770581,2023-04-26,Cough,Common Cold,Sudafed,Recovery
+44,28,Male,24.715484962294486,46.6386492979632,2023-05-10,"Diarrhea, Vomiting",Common Cold,Sudafed,Recovery
+45,15,Male,24.784421442325655,46.50491284131733,2023-04-06,"Vomiting, Cough, Sore Throat, Fatigue",COVID-19,Molnupiravir,Hospitalization
+46,23,Male,24.73692161312635,46.582853401187045,2023-01-27,"Headache, Diarrhea, Body Aches, Nausea, Fatigue",COVID-19,Dexamethasone,Hospitalization
+47,26,Female,24.808913663391323,46.83158887685082,2023-10-25,"Sore Throat, Headache, Nausea",Common Cold,Sudafed,Recovery
+48,56,Female,24.742312416520182,46.64790069181707,2023-07-19,"Vomiting, Fatigue",Influenza,Tamiflu,Recovery
+49,39,Female,24.652356262535957,46.650961602062495,2023-06-25,Vomiting,Allergic Reaction,Benadryl,Recovery
+50,13,Male,24.74975035252061,46.64531618037251,2023-04-08,"Diarrhea, Sore Throat, Shortness of Breath, Cough, Body Aches",COVID-19,Dexamethasone,Recovery
+51,38,Male,24.599227379267933,46.865713658957304,2023-10-08,"Fatigue, Shortness of Breath, Nausea, Headache, Diarrhea",Pneumonia,Levofloxacin,Recovery
+52,27,Male,24.72445597057765,46.837895891536206,2023-01-28,"Fever, Shortness of Breath, Sore Throat, Headache",COVID-19,Molnupiravir,Hospitalization
+53,23,Other,24.710277000935555,46.897178023344814,2023-05-10,"Sore Throat, Fatigue, Diarrhea",Stomach Virus,Ondansetron,Recovery
+54,44,Male,24.692788314272747,46.65939547895999,2023-10-24,"Nausea, Fatigue, Body Aches",Stomach Virus,Ondansetron,Recovery
+55,55,Female,24.700746248856106,46.70486244887471,2023-11-20,"Shortness of Breath, Headache, Nausea",Stomach Virus,Loperamide,Recovery
+56,52,Female,24.525415095450235,46.52363574505792,2023-04-27,Sore Throat,Influenza,Xofluza,Recovery
+57,21,Male,24.658727509225905,46.822993442611825,2023-04-07,"Headache, Fatigue",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+58,28,Female,24.72288449011411,46.55852204487321,2023-12-07,"Headache, Fatigue, Body Aches",Common Cold,Sudafed,Recovery
+59,39,Female,24.72958563919974,46.69697755637626,2023-08-07,Shortness of Breath,Influenza,Tamiflu,Recovery
+60,53,Female,24.610832485907405,46.565569747236715,2023-01-21,"Sore Throat, Vomiting",COVID-19,Paxlovid,Recovery
+61,26,Female,24.84017078408647,46.61641331732613,2023-10-14,"Nausea, Shortness of Breath",Influenza,Relenza,Recovery
+62,30,Male,24.62698251517855,46.59157375689503,2023-03-23,"Vomiting, Shortness of Breath",Common Cold,Sudafed,Recovery
+63,19,Male,24.810545720052673,46.61451247393242,2023-04-16,"Body Aches, Headache, Shortness of Breath, Fever, Fatigue",Influenza,Tamiflu,Recovery
+64,18,Female,24.75631943618717,46.621387729685104,2023-10-12,"Body Aches, Vomiting, Shortness of Breath, Fever",Influenza,Xofluza,Hospitalization
+65,49,Female,24.64897726901562,46.62047312050749,2023-10-18,"Sore Throat, Diarrhea, Vomiting, Nausea",COVID-19,Molnupiravir,Recovery
+66,65,Male,24.891131089260952,46.75863339117803,2023-10-03,"Diarrhea, Sore Throat, Vomiting, Body Aches, Cough",Influenza,Relenza,Recovery
+67,31,Female,24.59423631682435,46.56481372069375,2023-07-24,"Body Aches, Fatigue, Vomiting, Nausea",COVID-19,Paxlovid,Hospitalization
+68,54,Female,24.805515417361,46.697354142701386,2023-07-28,"Body Aches, Sore Throat, Shortness of Breath, Cough, Vomiting",Pneumonia,Moxifloxacin,Recovery
+69,39,Female,24.813658231804297,46.79709591523056,2023-04-24,"Shortness of Breath, Fever, Nausea",COVID-19,Molnupiravir,Recovery
+70,23,Male,24.646537979092336,46.62398036354866,2023-04-27,"Sore Throat, Fatigue",Allergic Reaction,Prednisone,Recovery
+71,39,Female,24.85284653000643,46.60350811092524,2023-10-15,"Body Aches, Sore Throat, Vomiting, Headache",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+72,71,Female,24.688595348540105,46.652247537481976,2023-01-14,"Sore Throat, Shortness of Breath, Vomiting",Influenza,Xofluza,Recovery
+73,32,Male,24.742469362927984,46.79327252083607,2023-09-25,"Fever, Body Aches, Vomiting, Nausea",COVID-19,Dexamethasone,Recovery
+74,72,Male,24.73963218387712,46.69471076309534,2023-10-25,"Shortness of Breath, Headache, Body Aches",Stomach Virus,Electrolyte solution,Recovery
+75,8,Other,24.700169125852945,46.62217857053924,2023-02-18,"Body Aches, Headache, Diarrhea",Bronchitis,Amoxicillin,Recovery
+76,49,Male,24.79468082731598,46.7236876651188,2023-12-21,Cough,Allergic Reaction,Cetirizine,Recovery
+77,34,Female,24.79294887205522,46.56507078501636,2023-12-22,Vomiting,Common Cold,Sudafed,Recovery
+78,28,Female,24.538746802676183,46.7434359510443,2023-09-20,"Headache, Nausea",Bronchitis,Dextromethorphan,Recovery
+79,34,Male,24.844034024287815,46.71616073077018,2023-10-10,"Headache, Cough, Body Aches, Fever",Influenza,Paracetamol + Rest,Hospitalization
+80,12,Female,24.547350801196433,46.64451915288611,2023-04-29,"Headache, Fever, Fatigue",Common Cold,Sudafed,Recovery
+81,29,Male,24.816854620434164,46.59144142015528,2023-01-14,"Vomiting, Cough, Fatigue",COVID-19,Remdesivir,Recovery
+82,39,Female,24.826270513682758,46.586631907771654,2023-10-20,"Vomiting, Fatigue",Allergic Reaction,Prednisone,Recovery
+83,69,Male,24.60450335697848,46.72878173363459,2023-08-06,"Diarrhea, Cough, Shortness of Breath",Stomach Virus,Loperamide,Recovery
+84,25,Female,24.67251857120454,46.79819805024891,2023-10-10,"Fever, Fatigue, Diarrhea, Nausea, Sore Throat",Respiratory Infection,Doxycycline,Recovery
+85,22,Male,24.603029533151407,46.61156922529712,2023-04-10,"Shortness of Breath, Fatigue",Respiratory Infection,Azithromycin,Hospitalization
+86,25,Male,24.692107896971127,46.721138670355145,2023-04-06,"Cough, Fatigue, Shortness of Breath, Diarrhea, Body Aches",Influenza,Relenza,Hospitalization
+87,52,Other,24.682796571581424,46.466597298139796,2023-01-17,"Fatigue, Cough, Shortness of Breath, Diarrhea, Nausea",COVID-19,Remdesivir,Recovery
+88,39,Male,24.791566053226934,46.61683822693428,2023-07-29,"Sore Throat, Headache, Cough",Respiratory Infection,Amoxicillin,Recovery
+89,25,Female,24.844630874611962,46.67219410671291,2023-04-10,"Fatigue, Cough",COVID-19,Remdesivir,Recovery
+90,42,Male,24.853168381078994,46.584331658301814,2023-10-24,"Nausea, Vomiting",Bronchitis,Amoxicillin,Recovery
+91,34,Female,24.65738319734217,46.58164936252104,2023-04-11,"Fatigue, Diarrhea, Body Aches, Vomiting",Respiratory Infection,Azithromycin,Recovery
+92,53,Male,24.692677812625547,46.60852204435311,2023-04-23,"Vomiting, Body Aches, Cough, Nausea, Fatigue",COVID-19,Dexamethasone,Recovery
+93,23,Other,24.545256180777905,46.704519272832634,2023-10-20,Sore Throat,Influenza,Xofluza,Recovery
+94,28,Male,24.63301299335038,46.656567098159364,2023-09-28,"Sore Throat, Headache, Cough",COVID-19,Dexamethasone,Recovery
+95,27,Male,24.810085163309747,46.451476876667506,2023-04-08,"Cough, Body Aches, Shortness of Breath, Diarrhea",Pneumonia,Levofloxacin,Recovery
+96,15,Male,24.87515828235482,46.46322998473649,2023-01-27,"Nausea, Sore Throat",COVID-19,Paxlovid,Hospitalization
+97,38,Male,24.590165112812006,46.61461348221428,2023-10-22,Body Aches,Stomach Virus,Electrolyte solution,Recovery
+98,37,Female,24.65435357408471,46.721068658605354,2023-10-03,"Cough, Shortness of Breath, Fatigue",COVID-19,Molnupiravir,Hospitalization
+99,33,Male,24.710959424304107,46.40054951572748,2023-07-02,"Nausea, Diarrhea, Shortness of Breath",Allergic Reaction,Benadryl,Recovery
+100,29,Female,24.74161611588196,46.625326982384834,2023-11-18,"Body Aches, Sore Throat, Vomiting",Allergic Reaction,Benadryl,Recovery
+101,16,Male,24.632639648007835,46.622675214348256,2023-03-19,Shortness of Breath,Stomach Virus,Loperamide,Recovery
+102,26,Male,24.75600610444641,46.81413377782084,2023-04-11,"Diarrhea, Sore Throat, Shortness of Breath",Respiratory Infection,Azithromycin,Recovery
+103,27,Female,24.666216065292907,46.63679781882871,2023-04-12,"Body Aches, Vomiting",Influenza,Tamiflu,Recovery
+104,22,Female,24.71215477291217,46.713598898474096,2023-10-05,"Headache, Sore Throat, Fatigue, Shortness of Breath",Influenza,Paracetamol + Rest,Recovery
+105,30,Male,24.76822842480037,46.68942571400875,2023-10-21,Sore Throat,Stomach Virus,Electrolyte solution,Recovery
+106,40,Male,24.714242226981092,46.46224335201928,2023-01-23,"Fatigue, Diarrhea",Influenza,Relenza,Recovery
+107,85,Male,24.669961410947344,46.752120721663175,2023-10-10,"Body Aches, Sore Throat, Vomiting, Cough",COVID-19,Dexamethasone,Recovery
+108,36,Female,24.702639019607417,46.69683965054563,2023-10-21,"Sore Throat, Nausea, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+109,37,Female,24.704763704079465,46.72612686396746,2023-12-23,"Diarrhea, Cough, Body Aches",Common Cold,Nyquil,Recovery
+110,31,Male,24.676598897011786,47.06792377064363,2023-03-10,"Vomiting, Headache",Stomach Virus,Electrolyte solution,Recovery
+111,12,Female,24.68772039373329,46.46688870605014,2023-09-27,"Body Aches, Cough",Respiratory Infection,Levofloxacin,Recovery
+112,32,Female,24.87346471705047,46.84776966497611,2023-07-30,"Body Aches, Cough",Influenza,Paracetamol + Rest,Recovery
+113,34,Female,24.769691944794122,46.64655524805996,2023-07-12,"Nausea, Body Aches, Diarrhea, Cough",Influenza,Xofluza,Hospitalization
+114,100,Female,24.684051968197082,46.7040328904403,2023-01-30,Cough,Influenza,Xofluza,Recovery
+115,30,Male,24.783295440451074,46.670748775469875,2023-01-29,"Body Aches, Nausea, Fatigue",COVID-19,Remdesivir,Hospitalization
+116,38,Male,24.680218051024397,46.6328763666602,2023-10-04,"Sore Throat, Body Aches, Nausea, Headache",Influenza,Tamiflu,Recovery
+117,32,Male,24.830912463758665,46.61831670717613,2023-08-01,"Body Aches, Diarrhea",COVID-19,Paxlovid,Hospitalization
+118,18,Male,24.750564219219807,46.708250873557304,2023-01-14,"Body Aches, Diarrhea, Fever, Fatigue",Respiratory Infection,Amoxicillin,Recovery
+119,58,Female,24.702869785599578,46.52358263033283,2023-04-11,"Fatigue, Nausea",COVID-19,Remdesivir,Recovery
+120,48,Female,24.758371692581026,46.75035791675218,2023-04-08,"Fatigue, Headache, Body Aches",Influenza,Relenza,Recovery
+121,49,Male,24.556512384793148,46.633680559511475,2023-05-25,Fatigue,Stomach Virus,Electrolyte solution,Recovery
+122,21,Male,24.60092325310902,46.56229306609596,2023-08-11,Nausea,Bronchitis,Dextromethorphan,Recovery
+123,66,Male,24.594207499360095,46.63029871420042,2023-10-01,"Sore Throat, Shortness of Breath",COVID-19,Molnupiravir,Hospitalization
+124,16,Female,24.72789430947637,46.80101492168626,2023-01-06,"Cough, Vomiting, Shortness of Breath, Body Aches",COVID-19,Remdesivir,Recovery
+125,44,Male,24.88685149994851,46.62176649129838,2023-04-24,"Fatigue, Diarrhea, Vomiting, Nausea, Sore Throat",COVID-19,Paxlovid,Recovery
+126,99,Female,24.93673001461926,46.71114536182096,2023-07-16,"Fatigue, Body Aches, Nausea, Vomiting",Influenza,Paracetamol + Rest,Recovery
+127,20,Male,24.777405110144077,46.60220437242845,2023-10-11,"Headache, Body Aches, Fever, Vomiting, Sore Throat",COVID-19,Dexamethasone,Hospitalization
+128,24,Male,24.763684447494445,46.75109218499236,2023-09-19,Body Aches,Stomach Virus,Pepto-Bismol,Recovery
+129,34,Other,24.533494226584725,46.74385077387902,2023-07-20,"Sore Throat, Cough",COVID-19,Dexamethasone,Hospitalization
+130,25,Other,24.659332620026596,46.86016088332964,2023-07-21,"Headache, Body Aches, Vomiting, Diarrhea, Fever",COVID-19,Dexamethasone,Recovery
+131,15,Male,24.634821624809177,46.65774360545008,2023-10-20,"Cough, Nausea, Vomiting",Stomach Virus,Pepto-Bismol,Recovery
+132,34,Female,24.651515240174888,46.74216548047579,2023-01-08,"Sore Throat, Nausea",Influenza,Relenza,Recovery
+133,19,Female,24.696785618141522,46.685106753953896,2023-10-10,"Shortness of Breath, Vomiting, Body Aches",Influenza,Tamiflu,Recovery
+134,41,Female,24.666390942230286,46.8048871781863,2023-01-14,"Nausea, Sore Throat, Shortness of Breath",Respiratory Infection,Amoxicillin,Recovery
+135,20,Male,24.51567001896242,46.603416761239124,2023-04-15,"Sore Throat, Body Aches, Shortness of Breath",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+136,71,Female,24.78839102561175,46.749800531287725,2023-01-26,"Shortness of Breath, Cough, Fever, Body Aches",Respiratory Infection,Doxycycline,Hospitalization
+137,22,Female,24.60632569742602,46.65583027038833,2023-04-29,"Cough, Vomiting",Bronchitis,Amoxicillin,Recovery
+138,28,Female,24.737524686411113,46.66888118228915,2023-08-04,Cough,Common Cold,Paracetamol,Recovery
+139,49,Male,24.921008266974997,46.68447524844484,2023-01-05,"Diarrhea, Fatigue, Sore Throat",Influenza,Paracetamol + Rest,Hospitalization
+140,17,Male,24.62166154084136,46.700524039642666,2023-10-21,"Headache, Vomiting, Nausea",Common Cold,Ibuprofen,Recovery
+141,37,Male,24.460571247725365,46.6636770956878,2023-10-16,"Sore Throat, Vomiting, Shortness of Breath, Fever",Influenza,Tamiflu,Recovery
+142,63,Female,24.68499957781199,46.696771318317055,2023-08-08,Sore Throat,Stomach Virus,Ondansetron,Recovery
+143,14,Male,24.82369596349986,46.83311180575622,2023-01-23,"Vomiting, Fever",Pneumonia,Piperacillin-Tazobactam,Recovery
+144,36,Female,24.909434745422057,46.77384496856152,2023-02-20,"Cough, Nausea, Diarrhea",Stomach Virus,Pepto-Bismol,Recovery
+145,37,Other,24.590645040554758,46.76221545924969,2023-10-15,"Fatigue, Shortness of Breath, Cough, Fever",COVID-19,Paxlovid,Hospitalization
+146,48,Male,24.76326992232365,46.62974604739761,2023-01-29,"Nausea, Vomiting, Fever",Influenza,Tamiflu,Recovery
+147,17,Female,24.667068954321994,46.586375917177165,2023-09-25,"Headache, Nausea",Influenza,Paracetamol + Rest,Recovery
+148,17,Male,24.703005164569586,46.77083005582377,2023-10-22,Vomiting,Common Cold,Sudafed,Recovery
+149,42,Female,24.978034334701704,46.762904679252976,2023-10-06,"Headache, Vomiting, Sore Throat, Diarrhea",COVID-19,Molnupiravir,Recovery
+150,38,Male,24.563302967160485,46.8225670675751,2023-07-19,"Cough, Nausea, Sore Throat",COVID-19,Dexamethasone,Hospitalization
+151,37,Female,24.738973966149455,46.614901937403076,2023-10-04,"Fatigue, Cough",Pneumonia,Moxifloxacin,Hospitalization
+152,39,Female,24.760369317176544,46.652345134463964,2023-04-24,"Fever, Sore Throat, Cough, Headache",Respiratory Infection,Doxycycline,Recovery
+153,23,Female,24.822178632493934,46.511351583747455,2023-04-24,"Fever, Vomiting, Nausea",Influenza,Relenza,Hospitalization
+154,37,Female,24.72339831534709,46.636052889393916,2023-04-22,"Vomiting, Body Aches, Shortness of Breath, Fever, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+155,38,Female,24.74440505395041,46.774957051057946,2023-10-01,"Body Aches, Diarrhea, Nausea, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+156,23,Female,24.67443514325782,46.62865046207718,2023-01-06,"Headache, Cough, Vomiting, Diarrhea",Influenza,Tamiflu,Recovery
+157,84,Female,24.74051269412451,46.73934797952008,2023-01-09,"Fever, Body Aches, Nausea",Respiratory Infection,Azithromycin,Recovery
+158,41,Female,24.67928077245026,46.65624968940022,2023-07-28,"Sore Throat, Shortness of Breath, Vomiting, Fever, Diarrhea",COVID-19,Remdesivir,Hospitalization
+159,18,Male,24.775757188985605,46.70770570282215,2023-04-17,"Vomiting, Fatigue, Headache, Sore Throat, Nausea",Influenza,Paracetamol + Rest,Recovery
+160,45,Female,24.676638966395636,46.560530861018435,2023-10-02,"Shortness of Breath, Fatigue, Body Aches, Nausea, Diarrhea",COVID-19,Dexamethasone,Recovery
+161,20,Female,24.75131003939022,46.683820944963394,2023-10-15,"Cough, Sore Throat, Diarrhea",COVID-19,Dexamethasone,Recovery
+162,49,Female,24.7106737186315,46.37618640290993,2023-10-11,"Diarrhea, Vomiting",Respiratory Infection,Azithromycin,Recovery
+163,59,Male,24.826205025077215,46.6566103841838,2023-07-05,"Shortness of Breath, Diarrhea",Influenza,Tamiflu,Recovery
+164,21,Female,24.708460627641152,46.51225267562849,2023-01-19,"Diarrhea, Shortness of Breath",Respiratory Infection,Azithromycin,Recovery
+165,53,Male,24.53629675317931,46.795899451654684,2023-01-08,"Cough, Vomiting, Shortness of Breath, Fever, Headache",COVID-19,Remdesivir,Hospitalization
+166,40,Female,24.8397921500714,46.75304073527645,2023-07-29,"Nausea, Headache, Diarrhea, Body Aches",Respiratory Infection,Levofloxacin,Recovery
+167,49,Male,24.62302676991374,46.72196709819661,2023-08-04,"Headache, Cough",Influenza,Xofluza,Recovery
+168,85,Female,24.648223366135117,46.827400622715935,2023-11-06,Fever,Allergic Reaction,Prednisone,Recovery
+169,29,Other,24.65403387059565,46.58040834791752,2023-10-18,"Headache, Sore Throat, Body Aches, Cough",COVID-19,Dexamethasone,Recovery
+170,22,Male,24.85104380931708,46.850036319791556,2023-01-12,"Body Aches, Diarrhea, Shortness of Breath, Sore Throat, Fatigue",COVID-19,Molnupiravir,Recovery
+171,21,Other,24.50003257860213,46.76851915642604,2023-09-29,"Vomiting, Shortness of Breath, Sore Throat",Respiratory Infection,Amoxicillin,Recovery
+172,22,Male,25.027374853366,46.651644471278104,2023-04-12,"Fatigue, Body Aches, Headache, Sore Throat",COVID-19,Paxlovid,Recovery
+173,31,Female,24.819205680906606,46.7888620147183,2023-08-04,"Diarrhea, Body Aches, Shortness of Breath",Stomach Virus,Ondansetron,Recovery
+174,39,Female,24.735923891412916,46.564670648758835,2023-04-25,"Sore Throat, Fever",Common Cold,Sudafed,Recovery
+175,38,Female,24.708110599938372,46.592848583847235,2023-04-18,"Nausea, Body Aches",Respiratory Infection,Azithromycin,Recovery
+176,50,Female,24.742155407485765,46.61444102767603,2023-03-18,Shortness of Breath,Common Cold,Nyquil,Recovery
+177,33,Female,24.76571224283793,46.6224022291936,2023-09-15,"Fever, Fatigue",Stomach Virus,Pepto-Bismol,Recovery
+178,68,Male,24.778121558595004,46.56964423572398,2023-08-04,"Headache, Shortness of Breath, Body Aches",Bronchitis,Dextromethorphan,Recovery
+179,29,Male,24.769160446600345,46.797608306709535,2023-07-23,"Body Aches, Fatigue, Headache",COVID-19,Dexamethasone,Recovery
+180,100,Female,24.722558068125526,46.64941455996302,2023-10-24,"Diarrhea, Nausea, Sore Throat",Allergic Reaction,Loratadine,Recovery
+181,45,Female,24.693866157969268,46.71055049683569,2023-02-01,"Vomiting, Diarrhea, Shortness of Breath",Stomach Virus,Pepto-Bismol,Recovery
+182,21,Female,24.698472671634647,46.61826486335863,2023-01-09,"Cough, Vomiting, Diarrhea, Body Aches, Fever",Influenza,Relenza,Recovery
+183,19,Female,24.694109171964733,46.49323966994515,2023-10-07,"Cough, Sore Throat, Nausea, Diarrhea, Shortness of Breath",COVID-19,Dexamethasone,Hospitalization
+184,42,Male,24.826977009686708,46.70230573583914,2023-04-17,"Cough, Fever, Body Aches, Headache, Sore Throat",COVID-19,Molnupiravir,Recovery
+185,29,Female,24.772955672228086,46.48407450245802,2023-09-05,"Sore Throat, Shortness of Breath, Nausea",Stomach Virus,Ondansetron,Recovery
+186,47,Male,24.41956113653357,46.668436595391455,2023-02-09,Cough,Stomach Virus,Loperamide,Recovery
+187,41,Female,24.779190077652977,46.53846849611672,2023-08-09,"Nausea, Body Aches, Sore Throat",Stomach Virus,Electrolyte solution,Recovery
+188,31,Male,24.733073619471877,46.87402759992308,2023-10-15,"Diarrhea, Cough",COVID-19,Dexamethasone,Recovery
+189,21,Male,24.71172912435541,46.76643627221747,2023-10-05,"Diarrhea, Fatigue, Shortness of Breath, Headache",Respiratory Infection,Doxycycline,Recovery
+190,15,Male,24.674748154691112,46.68587537912715,2023-01-09,"Fever, Sore Throat",COVID-19,Molnupiravir,Recovery
+191,26,Male,24.826011271998603,46.801670667765464,2023-12-07,"Headache, Fever, Nausea",Allergic Reaction,Cetirizine,Recovery
+192,50,Female,24.808352646212285,46.59066840225343,2023-01-21,"Cough, Fatigue, Fever",COVID-19,Paxlovid,Recovery
+193,36,Male,24.636312233217637,46.72964793786701,2023-05-31,Nausea,Bronchitis,Dextromethorphan,Recovery
+194,17,Male,24.754305228712454,46.69528104337187,2023-07-08,"Fatigue, Cough, Shortness of Breath, Body Aches",Respiratory Infection,Azithromycin,Recovery
+195,36,Male,24.61643432654587,46.70170200813337,2023-04-14,"Body Aches, Fever",COVID-19,Molnupiravir,Recovery
+196,40,Male,24.575638183521107,46.80253535001068,2023-01-14,"Diarrhea, Cough, Vomiting, Shortness of Breath",Respiratory Infection,Levofloxacin,Recovery
+197,21,Male,24.650928277541002,46.74854921027798,2023-10-20,"Headache, Body Aches",Common Cold,Paracetamol,Recovery
+198,35,Male,24.799839347238276,46.7041723662825,2023-12-19,Headache,Stomach Virus,Pepto-Bismol,Recovery
+199,34,Female,24.80891250453761,46.50981125637717,2023-09-29,"Body Aches, Vomiting, Fatigue, Nausea",COVID-19,Dexamethasone,Recovery
+200,18,Female,24.764908542009728,46.57929537047205,2023-07-01,"Fatigue, Headache",Common Cold,Ibuprofen,Recovery
+201,39,Female,24.786109578684798,46.66302910664043,2023-07-14,"Vomiting, Sore Throat, Diarrhea",COVID-19,Paxlovid,Recovery
+202,43,Male,24.765217828711496,46.684637237427665,2023-08-14,"Nausea, Fever",Stomach Virus,Loperamide,Recovery
+203,56,Male,24.649451840477706,46.56227962753261,2023-04-16,"Fever, Shortness of Breath, Body Aches",COVID-19,Molnupiravir,Recovery
+204,56,Female,24.756792254467392,46.91646766755784,2023-04-13,"Body Aches, Headache, Shortness of Breath",COVID-19,Remdesivir,Recovery
+205,16,Female,24.793640952522768,46.82693940552536,2023-04-03,"Cough, Nausea",COVID-19,Molnupiravir,Recovery
+206,20,Male,24.78902913298136,46.73551183203925,2023-08-02,"Nausea, Body Aches, Diarrhea, Cough, Vomiting",Respiratory Infection,Amoxicillin,Recovery
+207,42,Male,24.832491337147463,46.68250368612838,2023-01-23,"Body Aches, Cough, Diarrhea, Fever, Headache",Respiratory Infection,Azithromycin,Recovery
+208,42,Male,24.784430384720107,46.654079103009884,2023-01-19,"Sore Throat, Vomiting, Headache, Fatigue",COVID-19,Paxlovid,Recovery
+209,42,Male,24.74874482075416,46.58010815399778,2023-09-18,"Sore Throat, Shortness of Breath",Bronchitis,Benzonatate,Recovery
+210,100,Male,24.820615023831643,46.683048051851884,2023-04-18,"Headache, Body Aches, Cough, Sore Throat",COVID-19,Remdesivir,Hospitalization
+211,44,Female,24.710947874075092,46.70107525401428,2023-04-03,"Body Aches, Diarrhea",Respiratory Infection,Amoxicillin,Recovery
+212,58,Female,24.625412534877228,46.55112394245184,2023-12-02,Diarrhea,Stomach Virus,Electrolyte solution,Recovery
+213,53,Female,24.697293303605623,46.70871764172449,2023-10-08,"Body Aches, Headache, Vomiting, Sore Throat, Diarrhea",Influenza,Xofluza,Recovery
+214,45,Female,24.639109735519355,46.65977409511753,2023-04-03,"Sore Throat, Diarrhea, Headache, Vomiting",Influenza,Xofluza,Recovery
+215,28,Female,24.646082172502563,46.48451924421226,2023-02-02,Headache,Stomach Virus,Pepto-Bismol,Recovery
+216,48,Female,24.699148132928446,46.58926149892205,2023-03-04,Nausea,Allergic Reaction,Cetirizine,Recovery
+217,22,Female,24.634358007900005,46.633939446657834,2023-04-08,"Nausea, Sore Throat, Body Aches, Fever, Cough",Respiratory Infection,Amoxicillin,Recovery
+218,29,Male,24.682803847036094,46.86406876573402,2023-01-13,"Cough, Nausea",COVID-19,Remdesivir,Recovery
+219,25,Male,24.524238533304622,46.730955312453375,2023-04-14,"Shortness of Breath, Diarrhea",COVID-19,Paxlovid,Recovery
+220,34,Male,24.734929370737294,46.54175184309001,2023-10-06,"Fever, Sore Throat, Nausea, Shortness of Breath",Influenza,Tamiflu,Recovery
+221,100,Female,24.713720547536223,46.72390362894176,2023-04-09,"Nausea, Fever, Headache, Vomiting, Sore Throat",Respiratory Infection,Azithromycin,Recovery
+222,13,Female,24.63189113689318,46.52056960110616,2023-10-20,"Shortness of Breath, Body Aches",Common Cold,Nyquil,Recovery
+223,46,Male,24.77952456684324,46.78356910538871,2023-08-05,"Cough, Shortness of Breath, Headache",Stomach Virus,Loperamide,Recovery
+224,14,Female,24.807357013762655,46.62818753481821,2023-06-23,"Diarrhea, Sore Throat",Common Cold,Ibuprofen,Recovery
+225,26,Male,24.552844013563103,46.66593638112608,2023-03-31,"Cough, Shortness of Breath",Respiratory Infection,Doxycycline,Recovery
+226,57,Female,24.637327522143377,46.80787966475422,2023-04-22,"Shortness of Breath, Fatigue, Cough",Influenza,Paracetamol + Rest,Recovery
+227,34,Male,24.63668576502127,46.546583643141574,2023-01-31,"Shortness of Breath, Fatigue",Common Cold,Sudafed,Recovery
+228,19,Male,24.619609689889113,46.5355881814887,2023-08-01,"Shortness of Breath, Cough, Fever, Headache, Nausea",COVID-19,Dexamethasone,Recovery
+229,23,Female,24.796547484193173,46.6169400673654,2023-10-02,"Shortness of Breath, Body Aches",COVID-19,Molnupiravir,Recovery
+230,46,Male,24.69421738612272,46.77913788510193,2023-07-24,"Fatigue, Cough, Fever, Sore Throat",Influenza,Paracetamol + Rest,Recovery
+231,22,Male,24.687148515868937,46.52336539245231,2023-10-10,"Diarrhea, Sore Throat, Fever, Body Aches, Headache",Pneumonia,Moxifloxacin,Hospitalization
+232,36,Male,24.513213763559325,46.392084440188945,2023-04-22,"Shortness of Breath, Body Aches",Influenza,Paracetamol + Rest,Recovery
+233,33,Female,24.77714180302092,46.6301841141591,2023-03-21,"Fatigue, Cough",Allergic Reaction,Prednisone,Recovery
+234,23,Female,24.58967416051465,46.73047407999109,2023-01-19,"Nausea, Diarrhea, Fever",Influenza,Xofluza,Recovery
+235,96,Male,24.71959326302663,46.79532617497388,2023-10-24,"Diarrhea, Shortness of Breath",Common Cold,Ibuprofen,Recovery
+236,45,Female,24.74133769379582,46.62898386379146,2023-09-27,"Fever, Diarrhea",COVID-19,Remdesivir,Hospitalization
+237,12,Female,24.849665859583865,46.6341573392884,2023-04-17,"Fatigue, Nausea, Headache",Influenza,Tamiflu,Recovery
+238,36,Male,24.58271796008809,46.79069007342557,2023-05-04,"Body Aches, Diarrhea",Stomach Virus,Ondansetron,Recovery
+239,23,Male,24.411648784417917,46.488325830030455,2023-07-30,"Fatigue, Vomiting, Diarrhea, Shortness of Breath, Fever",COVID-19,Remdesivir,Recovery
+240,50,Male,24.73198495447537,46.6364479224817,2023-07-21,"Sore Throat, Fatigue, Nausea, Shortness of Breath, Body Aches",Respiratory Infection,Levofloxacin,Recovery
+241,22,Male,24.893651118151084,46.6943423889925,2023-07-31,"Headache, Diarrhea, Shortness of Breath, Fever, Body Aches",Influenza,Tamiflu,Hospitalization
+242,31,Female,24.837494635293943,46.720221872128505,2023-08-01,"Fatigue, Body Aches, Sore Throat",COVID-19,Molnupiravir,Hospitalization
+243,42,Male,24.734565941527464,46.62431933068091,2023-06-14,"Shortness of Breath, Diarrhea",Influenza,Tamiflu,Recovery
+244,51,Female,24.664436381436794,46.67874410117059,2023-01-22,"Cough, Nausea",Respiratory Infection,Doxycycline,Hospitalization
+245,18,Female,24.79431225966373,46.426467264658704,2023-02-14,"Fever, Shortness of Breath, Vomiting",Allergic Reaction,Benadryl,Recovery
+246,28,Male,24.616245380029554,46.609475158766614,2023-04-03,"Body Aches, Sore Throat, Headache, Diarrhea",Respiratory Infection,Amoxicillin,Recovery
+247,26,Female,24.76123577693562,46.720650871255444,2023-10-13,"Shortness of Breath, Fatigue, Nausea, Cough",COVID-19,Molnupiravir,Recovery
+248,23,Male,24.764147015916663,46.57707059657453,2023-08-03,"Vomiting, Fatigue",Respiratory Infection,Levofloxacin,Recovery
+249,80,Other,24.819620990749886,46.68119842215896,2023-10-21,"Nausea, Headache",Allergic Reaction,Cetirizine,Recovery
+250,40,Female,24.989566003891106,46.71998725008027,2023-11-21,"Body Aches, Cough, Fatigue",Influenza,Paracetamol + Rest,Recovery
+251,17,Female,24.752841596717875,46.64104507991422,2023-10-04,"Fatigue, Sore Throat, Nausea, Vomiting, Diarrhea",Influenza,Tamiflu,Recovery
+252,52,Female,24.66270363742925,46.69234637709966,2023-07-14,"Nausea, Cough, Shortness of Breath, Body Aches",COVID-19,Remdesivir,Recovery
+253,95,Male,24.7110425687808,46.57902674347154,2023-04-05,"Fatigue, Body Aches, Fever, Vomiting, Nausea",COVID-19,Remdesivir,Recovery
+254,55,Female,24.536692409511087,46.6546388720304,2023-10-13,"Diarrhea, Vomiting",Influenza,Xofluza,Hospitalization
+255,15,Female,24.644128686891094,46.736321616958925,2023-02-01,"Fever, Headache, Shortness of Breath",Stomach Virus,Pepto-Bismol,Recovery
+256,25,Female,24.672671756188688,46.690997296096846,2023-03-19,"Vomiting, Fever, Diarrhea",Allergic Reaction,Benadryl,Recovery
+257,62,Female,24.661191160206542,46.61664687304361,2023-01-21,"Diarrhea, Cough, Fatigue, Nausea, Vomiting",COVID-19,Molnupiravir,Hospitalization
+258,23,Female,24.728835487203373,46.69772164042908,2023-01-30,"Vomiting, Cough, Headache",Common Cold,Sudafed,Recovery
+259,41,Male,24.63135800676178,46.74676097906366,2023-07-29,"Fatigue, Fever, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+260,48,Male,24.825703066732448,46.470305872142255,2023-04-10,"Fatigue, Diarrhea",Influenza,Tamiflu,Recovery
+261,20,Female,24.71362070649182,46.79120740649559,2023-10-12,"Diarrhea, Cough, Vomiting, Headache, Nausea",Influenza,Paracetamol + Rest,Recovery
+262,32,Male,24.71266996788614,46.641674526131894,2023-04-23,"Headache, Cough, Sore Throat",Respiratory Infection,Amoxicillin,Hospitalization
+263,6,Female,24.680810528348708,46.717848993324026,2023-08-09,"Nausea, Diarrhea",Common Cold,Sudafed,Recovery
+264,19,Female,24.7291190683859,46.79502469236452,2023-10-19,"Nausea, Body Aches, Diarrhea, Cough, Shortness of Breath",COVID-19,Paxlovid,Recovery
+265,29,Male,24.796109826466765,46.538132630276955,2023-04-30,"Fatigue, Sore Throat, Body Aches",Common Cold,Paracetamol,Recovery
+266,17,Male,24.62688697842891,46.604355899757245,2023-03-12,"Nausea, Headache",Allergic Reaction,Benadryl,Recovery
+267,74,Female,24.647788351092473,46.64644513041243,2023-02-01,Shortness of Breath,Influenza,Relenza,Recovery
+268,16,Male,24.683227397122334,46.596924647887555,2023-11-08,Headache,Common Cold,Ibuprofen,Recovery
+269,26,Female,24.57901290765268,46.848793657583684,2023-07-01,"Vomiting, Headache, Body Aches",Allergic Reaction,Loratadine,Recovery
+270,35,Male,24.63167421402785,46.58962279061732,2023-01-05,"Shortness of Breath, Fatigue, Body Aches, Nausea, Diarrhea",COVID-19,Dexamethasone,Hospitalization
+271,68,Female,24.665977912645534,46.619745322051315,2023-04-14,"Cough, Sore Throat, Fever, Vomiting, Fatigue",Pneumonia,Levofloxacin,Hospitalization
+272,16,Male,24.80103891807127,46.6957389031603,2023-01-23,"Fatigue, Nausea, Fever, Vomiting, Body Aches",COVID-19,Paxlovid,Hospitalization
+273,59,Female,24.739856132900194,46.55508504739239,2023-01-17,"Vomiting, Nausea",COVID-19,Remdesivir,Recovery
+274,33,Male,24.732958991136755,46.63573192882437,2023-01-07,"Cough, Sore Throat, Vomiting, Shortness of Breath, Fatigue",COVID-19,Molnupiravir,Hospitalization
+275,20,Female,24.798689796216795,46.70704532612502,2023-08-03,"Diarrhea, Cough, Shortness of Breath, Fever",Influenza,Paracetamol + Rest,Recovery
+276,41,Male,24.69986282116006,46.64201395956175,2023-04-12,"Diarrhea, Sore Throat, Vomiting",Respiratory Infection,Levofloxacin,Hospitalization
+277,36,Female,24.752646484992887,46.66596131411001,2023-10-06,"Nausea, Body Aches, Fever, Sore Throat",COVID-19,Dexamethasone,Recovery
+278,24,Female,24.70327782470675,46.622366788755166,2023-01-28,"Body Aches, Fatigue, Fever, Shortness of Breath",Influenza,Xofluza,Recovery
+279,34,Male,24.740136234939964,46.52385296908192,2023-07-17,"Cough, Shortness of Breath, Sore Throat, Nausea, Fatigue",Respiratory Infection,Doxycycline,Recovery
+280,27,Male,24.655324134238843,46.707459321133925,2023-01-21,"Fatigue, Sore Throat",Influenza,Paracetamol + Rest,Recovery
+281,35,Male,24.469718284172355,46.85079330716472,2023-12-03,"Headache, Fever",Bronchitis,Dextromethorphan,Recovery
+282,46,Female,24.700172083781368,46.67714016307834,2023-07-28,"Vomiting, Body Aches, Fatigue, Diarrhea, Shortness of Breath",Respiratory Infection,Doxycycline,Recovery
+283,73,Female,24.855874813609994,46.697826411724755,2023-04-30,"Cough, Sore Throat, Diarrhea",Allergic Reaction,Benadryl,Recovery
+284,17,Female,24.806221540224158,46.744572275511686,2023-07-29,"Sore Throat, Nausea",Influenza,Relenza,Recovery
+285,96,Male,24.810139748459118,46.54836695034533,2023-10-10,"Fever, Nausea, Fatigue, Headache",Influenza,Paracetamol + Rest,Recovery
+286,12,Male,24.83721307218062,46.84555146581296,2023-08-08,Vomiting,Common Cold,Paracetamol,Recovery
+287,30,Female,24.722465759096142,46.69553287964228,2023-01-09,"Cough, Headache, Body Aches, Vomiting",Influenza,Paracetamol + Rest,Hospitalization
+288,44,Female,24.73333157074056,46.838485689908914,2023-09-03,"Fever, Cough",Allergic Reaction,Prednisone,Recovery
+289,38,Other,24.651834810456563,46.6019967004476,2023-01-11,"Diarrhea, Cough, Shortness of Breath, Fatigue, Sore Throat",Pneumonia,Levofloxacin,Recovery
+290,24,Male,24.681992714397296,46.857106192255785,2023-01-08,"Fatigue, Headache",COVID-19,Remdesivir,Recovery
+291,29,Female,24.775177114977115,46.75281554940348,2023-07-16,"Nausea, Headache, Sore Throat, Fatigue",COVID-19,Molnupiravir,Recovery
+292,25,Male,24.83398844371688,46.73060400858524,2023-10-18,"Headache, Vomiting",COVID-19,Molnupiravir,Recovery
+293,24,Male,24.6996553724319,46.698702445435316,2023-10-13,"Vomiting, Cough, Sore Throat, Nausea",Respiratory Infection,Doxycycline,Recovery
+294,50,Female,24.668581073514858,46.650447138192554,2023-01-22,"Body Aches, Sore Throat, Fever, Headache, Nausea",Influenza,Relenza,Hospitalization
+295,39,Female,24.713652795885658,46.79535316584739,2023-07-21,"Shortness of Breath, Fever, Nausea",COVID-19,Paxlovid,Recovery
+296,23,Other,24.77372067489291,46.6893359869848,2023-04-23,"Fatigue, Diarrhea, Body Aches, Cough, Sore Throat",Respiratory Infection,Doxycycline,Recovery
+297,51,Male,24.569214518386644,46.47859302964128,2023-10-06,"Vomiting, Sore Throat, Diarrhea, Nausea",Respiratory Infection,Doxycycline,Recovery
+298,38,Male,24.483981904686274,46.5635813538293,2023-08-06,"Fatigue, Nausea",Bronchitis,Dextromethorphan,Recovery
+299,49,Female,24.65854631505084,46.65671542478073,2023-10-18,"Fever, Nausea, Cough, Vomiting",Respiratory Infection,Levofloxacin,Recovery
+300,45,Female,24.591528757408582,46.70629989831656,2023-07-31,"Fever, Headache, Body Aches, Shortness of Breath",Influenza,Relenza,Hospitalization
+301,21,Male,24.66278598023527,46.669641151110014,2023-12-31,"Headache, Sore Throat, Fever",Allergic Reaction,Benadryl,Recovery
+302,25,Male,24.698821968118253,46.797197078979366,2023-11-17,"Cough, Fever, Body Aches",Influenza,Xofluza,Hospitalization
+303,48,Male,24.6682751590977,46.48018981359614,2023-01-05,"Body Aches, Fever, Vomiting",COVID-19,Remdesivir,Recovery
+304,44,Female,24.858846753447075,46.689658793650516,2023-08-05,"Sore Throat, Diarrhea",Allergic Reaction,Benadryl,Recovery
+305,32,Male,24.746274476460233,46.49350207746129,2023-08-06,"Headache, Cough",Stomach Virus,Pepto-Bismol,Recovery
+306,35,Male,24.743647435961083,46.751271229548415,2023-10-08,"Nausea, Cough, Fatigue",Pneumonia,Piperacillin-Tazobactam,Recovery
+307,62,Male,24.77582071440434,46.6658541285558,2023-10-12,"Fever, Fatigue, Diarrhea, Nausea",COVID-19,Remdesivir,Recovery
+308,24,Male,24.59971668822192,46.71726099720241,2023-02-02,Diarrhea,Common Cold,Paracetamol,Recovery
+309,43,Male,24.817511178742027,46.58891170394102,2023-10-16,"Nausea, Fatigue",Influenza,Relenza,Recovery
+310,29,Female,24.706023571346453,46.80324649316577,2023-06-11,"Sore Throat, Nausea, Headache",Stomach Virus,Ondansetron,Recovery
+311,29,Male,24.780648061724122,46.779472466405885,2023-04-27,"Headache, Fatigue",Common Cold,Ibuprofen,Fatality
+312,57,Female,24.606414276695983,46.733654430301186,2023-07-18,"Shortness of Breath, Vomiting, Diarrhea, Fever, Cough",Influenza,Paracetamol + Rest,Recovery
+313,50,Male,24.558224123398393,46.662348275313654,2023-07-19,"Cough, Body Aches, Sore Throat, Fever, Nausea",Influenza,Paracetamol + Rest,Recovery
+314,49,Female,24.795388965802502,46.733285728529516,2023-02-04,"Vomiting, Body Aches",Allergic Reaction,Cetirizine,Recovery
+315,63,Female,24.751240952609752,46.60461074320126,2023-04-27,"Shortness of Breath, Fever",Common Cold,Sudafed,Recovery
+316,33,Female,24.62339484456425,46.76085556590207,2023-07-29,"Fatigue, Shortness of Breath, Cough, Nausea, Diarrhea",Pneumonia,Levofloxacin,Hospitalization
+317,46,Female,24.62663369187253,46.84024808943239,2023-10-06,"Fever, Cough",Pneumonia,Moxifloxacin,Recovery
+318,28,Male,24.826143478441477,46.78236105599792,2023-04-21,"Body Aches, Diarrhea",Pneumonia,Moxifloxacin,Hospitalization
+319,38,Male,24.594658810713266,46.60233975301926,2023-10-14,"Vomiting, Fever, Sore Throat, Cough, Nausea",Influenza,Tamiflu,Recovery
+320,31,Female,24.877867295325597,46.71144173172731,2023-07-13,"Nausea, Vomiting",Pneumonia,Moxifloxacin,Recovery
+321,34,Other,24.623537926535214,46.54598584562414,2023-08-05,"Diarrhea, Sore Throat, Body Aches",Bronchitis,Azithromycin,Recovery
+322,44,Female,24.777439192560838,46.73253903111757,2023-02-04,"Nausea, Fatigue, Vomiting",Bronchitis,Benzonatate,Recovery
+323,21,Female,24.6807381524251,46.72036034128625,2023-01-16,"Body Aches, Cough, Headache, Fever, Shortness of Breath",COVID-19,Remdesivir,Recovery
+324,94,Female,24.773918743108233,46.488318366046784,2023-04-27,Fever,Stomach Virus,Electrolyte solution,Recovery
+325,20,Male,24.659188599788582,46.55912161560877,2023-05-26,Diarrhea,Common Cold,Ibuprofen,Recovery
+326,18,Male,24.69732070939277,46.64698611032562,2023-04-18,"Fatigue, Fever, Vomiting",Respiratory Infection,Levofloxacin,Recovery
+327,59,Female,24.71769191753957,46.64521402528592,2023-07-15,"Sore Throat, Fatigue",Influenza,Relenza,Recovery
+328,49,Female,24.613381254421853,46.55435230645812,2023-02-04,"Diarrhea, Nausea",Common Cold,Paracetamol,Recovery
+329,45,Male,24.787682434542013,46.714197872935216,2023-04-29,Body Aches,Bronchitis,Dextromethorphan,Recovery
+330,45,Female,24.662278643352842,46.70044736089405,2023-04-05,"Sore Throat, Diarrhea, Body Aches, Cough, Fever",COVID-19,Remdesivir,Recovery
+331,32,Male,24.690740008465998,46.655873086802146,2023-06-28,"Nausea, Headache",Common Cold,Sudafed,Recovery
+332,21,Female,24.614165062539147,46.599720849984166,2023-10-09,"Sore Throat, Fever, Body Aches, Diarrhea, Shortness of Breath",Pneumonia,Moxifloxacin,Hospitalization
+333,34,Male,24.45736663412047,46.780170712641656,2023-04-04,"Fatigue, Shortness of Breath, Nausea, Body Aches",Pneumonia,Moxifloxacin,Recovery
+334,23,Male,24.694497223739983,46.84084071130883,2023-07-12,"Headache, Nausea, Cough, Fatigue, Fever",Influenza,Paracetamol + Rest,Hospitalization
+335,53,Female,24.95486154216129,46.626943851615344,2023-04-18,"Cough, Vomiting, Headache, Fatigue",Respiratory Infection,Azithromycin,Recovery
+336,30,Male,24.792060428789803,46.61408330828452,2023-10-23,Headache,Common Cold,Sudafed,Recovery
+337,21,Female,24.71167396202656,46.7244207665412,2023-07-22,"Fatigue, Fever, Headache, Shortness of Breath, Vomiting",COVID-19,Remdesivir,Recovery
+338,28,Female,24.687310917079174,46.6394970620253,2023-10-04,"Cough, Body Aches",Influenza,Xofluza,Hospitalization
+339,40,Female,24.715846589281202,46.661360279933675,2023-01-24,"Headache, Shortness of Breath",Influenza,Tamiflu,Hospitalization
+340,24,Male,24.76831191151752,46.749265315172465,2023-01-14,"Fatigue, Vomiting, Fever, Headache",Influenza,Paracetamol + Rest,Recovery
+341,21,Male,24.595518718469116,46.48436439124927,2023-01-23,"Headache, Diarrhea, Fatigue, Vomiting, Sore Throat",Influenza,Relenza,Recovery
+342,37,Male,24.825032169466887,46.807130232485264,2023-04-03,"Shortness of Breath, Cough, Fever",Pneumonia,Piperacillin-Tazobactam,Recovery
+343,37,Other,24.785138131544123,46.682568052432934,2023-09-16,"Vomiting, Diarrhea",Stomach Virus,Ondansetron,Recovery
+344,25,Female,24.785418572570794,46.63415068554378,2023-01-12,"Fever, Vomiting",Respiratory Infection,Amoxicillin,Recovery
+345,26,Female,24.757447573880974,46.666376584577854,2023-10-18,"Cough, Fatigue, Shortness of Breath, Sore Throat, Nausea",Respiratory Infection,Levofloxacin,Recovery
+346,37,Female,24.7155616657694,46.67154293550205,2023-10-19,"Cough, Headache, Body Aches, Diarrhea, Shortness of Breath",Influenza,Xofluza,Recovery
+347,16,Female,24.78088612359668,46.50217986965551,2023-11-20,"Headache, Fatigue",Bronchitis,Amoxicillin,Recovery
+348,16,Female,24.772781413374137,46.82479382274532,2023-05-21,Fever,Stomach Virus,Electrolyte solution,Recovery
+349,23,Male,24.678195928905897,46.67943256322706,2023-01-08,"Shortness of Breath, Vomiting, Sore Throat, Nausea",COVID-19,Paxlovid,Recovery
+350,29,Female,24.656239822710308,46.719600213044735,2023-07-26,"Fatigue, Sore Throat, Nausea, Cough",Influenza,Xofluza,Recovery
+351,38,Male,24.723785629526198,46.770454977057405,2023-09-06,"Body Aches, Fatigue, Headache",Stomach Virus,Pepto-Bismol,Recovery
+352,69,Female,24.868502015149517,46.57318375424397,2023-03-07,Cough,Stomach Virus,Pepto-Bismol,Recovery
+353,50,Female,24.58968929243461,46.722647189903526,2023-08-05,Shortness of Breath,Stomach Virus,Pepto-Bismol,Recovery
+354,30,Female,24.566847473424755,46.64853589091012,2023-04-17,"Diarrhea, Headache, Fever, Sore Throat",Influenza,Paracetamol + Rest,Recovery
+355,32,Male,24.730076084123652,46.75997707752165,2023-08-15,"Diarrhea, Fever",Common Cold,Paracetamol,Recovery
+356,20,Male,24.7186887701856,46.46257725796485,2023-08-04,Fatigue,Allergic Reaction,Cetirizine,Recovery
+357,32,Male,24.73093416643704,46.66539056997588,2023-04-13,"Diarrhea, Vomiting, Fatigue, Fever, Shortness of Breath",COVID-19,Molnupiravir,Hospitalization
+358,28,Male,24.73799531979085,46.6150179344216,2023-10-24,"Fever, Vomiting",Influenza,Tamiflu,Recovery
+359,38,Male,24.69127977453652,46.71852629506341,2023-01-16,"Vomiting, Diarrhea, Shortness of Breath, Body Aches, Fatigue",COVID-19,Dexamethasone,Recovery
+360,21,Female,24.862586343860208,46.72230441873682,2023-03-31,"Diarrhea, Fever, Fatigue, Shortness of Breath, Headache",COVID-19,Dexamethasone,Recovery
+361,42,Female,24.55350960215235,46.6045374105178,2023-04-15,"Diarrhea, Shortness of Breath",Respiratory Infection,Doxycycline,Recovery
+362,71,Male,24.630750297521974,46.6040826135824,2023-07-12,"Vomiting, Diarrhea, Fatigue, Headache, Sore Throat",COVID-19,Dexamethasone,Recovery
+363,31,Male,24.703274523985094,46.664233463144264,2023-04-10,"Sore Throat, Diarrhea, Shortness of Breath, Body Aches, Headache",COVID-19,Paxlovid,Recovery
+364,40,Male,24.549281118884583,46.58563577726848,2023-04-27,"Fever, Diarrhea",Stomach Virus,Pepto-Bismol,Recovery
+365,46,Female,24.696014559556794,46.75949836954521,2023-04-19,"Sore Throat, Cough, Vomiting, Nausea, Fatigue",Pneumonia,Levofloxacin,Hospitalization
+366,27,Female,24.8797470165728,46.63837927995525,2023-10-25,"Fever, Vomiting",Common Cold,Nyquil,Recovery
+367,37,Female,24.715688648829595,46.38460117806783,2023-07-22,"Fatigue, Cough, Shortness of Breath",Influenza,Paracetamol + Rest,Recovery
+368,33,Female,24.736670090571867,46.63781779433782,2023-02-04,"Sore Throat, Headache, Vomiting",Bronchitis,Azithromycin,Recovery
+369,34,Other,24.587583523482742,46.5714456179156,2023-01-06,"Fatigue, Fever, Vomiting, Sore Throat",COVID-19,Dexamethasone,Recovery
+370,22,Female,24.65196385919605,46.51217241845391,2023-01-16,"Vomiting, Shortness of Breath, Body Aches, Diarrhea",Respiratory Infection,Amoxicillin,Recovery
+371,33,Male,24.676080361967607,46.551557336177744,2023-01-17,"Vomiting, Fatigue",COVID-19,Paxlovid,Recovery
+372,42,Female,24.681828490324378,46.6862408471833,2023-04-01,"Fever, Sore Throat",Influenza,Tamiflu,Recovery
+373,68,Male,24.841764379500376,46.808164082824824,2023-04-01,"Nausea, Diarrhea, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+374,53,Female,24.769369106072514,46.7066184473865,2023-12-06,"Fatigue, Headache",Stomach Virus,Ondansetron,Recovery
+375,97,Male,24.602454204306298,46.614649661178426,2023-10-11,"Fatigue, Sore Throat",COVID-19,Dexamethasone,Recovery
+376,22,Female,24.7382504778432,46.72089041951707,2023-06-14,"Nausea, Sore Throat",Influenza,Xofluza,Recovery
+377,51,Female,24.763422174849676,46.6293909689781,2023-10-16,"Fatigue, Diarrhea, Cough, Sore Throat",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+378,36,Female,24.827614903852126,46.60583996308369,2023-07-14,"Nausea, Sore Throat",COVID-19,Dexamethasone,Recovery
+379,98,Female,24.871654068656838,46.5598637331767,2023-04-21,"Fatigue, Shortness of Breath, Headache, Body Aches",COVID-19,Remdesivir,Hospitalization
+380,22,Male,24.612090580817213,46.50011711932483,2023-04-18,"Diarrhea, Cough, Shortness of Breath",Respiratory Infection,Doxycycline,Recovery
+381,21,Male,24.632514248878966,46.63630762934405,2023-04-14,"Headache, Fatigue, Sore Throat, Fever",COVID-19,Remdesivir,Hospitalization
+382,24,Male,24.587842214108537,46.69110534899201,2023-10-06,"Diarrhea, Headache, Nausea, Cough",Respiratory Infection,Amoxicillin,Recovery
+383,11,Male,24.6901980140893,46.66563763299851,2023-08-13,"Vomiting, Nausea, Cough",Bronchitis,Benzonatate,Recovery
+384,25,Female,24.760235837444633,46.633703307205266,2023-04-02,"Nausea, Body Aches, Fever, Cough",COVID-19,Dexamethasone,Recovery
+385,22,Male,24.81233345165891,46.58072539393032,2023-04-29,Fever,Allergic Reaction,Prednisone,Recovery
+386,35,Other,24.706004897635747,46.7361246191685,2023-10-21,"Sore Throat, Nausea",Bronchitis,Azithromycin,Recovery
+387,39,Female,24.681615247674515,46.543586808005344,2023-04-02,"Body Aches, Nausea, Headache, Shortness of Breath",Influenza,Tamiflu,Recovery
+388,84,Female,24.728775799224874,46.75290279138435,2023-10-28,"Cough, Fever, Headache",Influenza,Relenza,Recovery
+389,53,Male,24.630085709836997,46.57507829810733,2023-07-08,"Headache, Body Aches, Vomiting, Fever, Shortness of Breath",Pneumonia,Piperacillin-Tazobactam,Recovery
+390,24,Female,24.922553872169477,46.6000564762647,2023-04-12,"Cough, Nausea, Body Aches, Diarrhea",Respiratory Infection,Doxycycline,Recovery
+391,21,Female,24.552833897288195,46.52862148093843,2023-10-01,"Headache, Body Aches, Cough, Diarrhea",Pneumonia,Piperacillin-Tazobactam,Recovery
+392,42,Female,24.732074057889573,46.62515978531144,2023-01-31,"Cough, Headache, Nausea",Influenza,Tamiflu,Recovery
+393,17,Female,24.915960621922963,46.7728312458478,2023-08-06,"Fatigue, Vomiting",Common Cold,Nyquil,Recovery
+394,82,Female,24.714279984456,46.726862808844395,2023-08-04,Fatigue,Common Cold,Nyquil,Recovery
+395,59,Male,24.69459609649985,46.7731422112028,2023-07-18,"Fatigue, Fever, Cough, Nausea, Body Aches",COVID-19,Dexamethasone,Hospitalization
+396,26,Female,24.677855457718955,46.727514254593395,2023-07-01,"Fatigue, Vomiting",Allergic Reaction,Prednisone,Recovery
+397,14,Male,24.69556083182376,46.56493301714696,2023-07-16,"Sore Throat, Cough, Nausea",COVID-19,Paxlovid,Hospitalization
+398,65,Male,24.850884847467654,46.64222107756724,2023-01-03,"Vomiting, Diarrhea, Nausea, Body Aches, Fatigue",Influenza,Paracetamol + Rest,Recovery
+399,31,Male,24.49241380886705,46.59728008708825,2023-01-29,"Body Aches, Vomiting, Sore Throat, Nausea, Fatigue",COVID-19,Paxlovid,Recovery
+400,61,Male,24.866943370129633,46.80835749040391,2023-04-07,"Vomiting, Fever, Body Aches, Nausea, Headache",COVID-19,Paxlovid,Hospitalization
+401,14,Male,24.571204284754984,46.55562113535737,2023-07-22,"Diarrhea, Headache, Shortness of Breath",Influenza,Xofluza,Recovery
+402,24,Male,24.686934767076558,46.76466976893891,2023-01-21,"Fever, Fatigue, Sore Throat, Cough, Nausea",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+403,33,Other,24.670675557970135,46.76459538701088,2023-04-13,"Diarrhea, Cough, Nausea",Influenza,Xofluza,Recovery
+404,33,Female,24.77245532697707,46.85826202017161,2023-10-05,"Body Aches, Cough, Nausea, Vomiting, Fatigue",Respiratory Infection,Levofloxacin,Recovery
+405,26,Other,24.553787564811625,46.63433134073705,2023-07-10,"Vomiting, Sore Throat, Fatigue, Diarrhea, Body Aches",Respiratory Infection,Doxycycline,Recovery
+406,45,Male,24.759817266608195,46.74653221595802,2023-08-09,"Sore Throat, Shortness of Breath",Allergic Reaction,Loratadine,Recovery
+407,19,Male,24.916030962328684,46.903465183653886,2023-01-29,"Fever, Vomiting, Body Aches, Shortness of Breath, Headache",Influenza,Relenza,Recovery
+408,30,Female,24.57728259954072,46.61353583230663,2023-03-25,"Fever, Sore Throat, Diarrhea",Common Cold,Paracetamol,Recovery
+409,35,Male,24.732570616761038,46.52179597524676,2023-07-11,"Vomiting, Diarrhea, Headache, Body Aches",Respiratory Infection,Amoxicillin,Recovery
+410,42,Male,24.64740178222034,46.487298996609226,2023-03-10,Sore Throat,Common Cold,Ibuprofen,Recovery
+411,47,Female,24.756188720619303,46.74657120288613,2023-07-07,"Diarrhea, Sore Throat",Respiratory Infection,Doxycycline,Recovery
+412,18,Male,24.715514777741575,46.48698497919414,2023-01-10,"Headache, Diarrhea",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+413,15,Female,24.649451309095568,46.638068094706206,2023-10-16,"Cough, Fatigue, Shortness of Breath, Headache, Diarrhea",Pneumonia,Moxifloxacin,Recovery
+414,62,Female,24.762387228487107,46.7190313187039,2023-11-22,"Nausea, Headache",Allergic Reaction,Prednisone,Recovery
+415,39,Male,24.894034810978674,46.69381755368299,2023-08-06,Shortness of Breath,Stomach Virus,Loperamide,Recovery
+416,22,Male,24.69450962082727,46.717844486418414,2023-01-30,"Vomiting, Nausea, Fatigue",Bronchitis,Benzonatate,Recovery
+417,71,Female,24.785575794214818,46.697528985580085,2023-08-24,"Nausea, Body Aches",Common Cold,Sudafed,Recovery
+418,35,Male,24.584272704212882,46.80318658133134,2023-02-03,"Vomiting, Diarrhea",Common Cold,Nyquil,Recovery
+419,59,Male,24.6179563623182,46.58006836192612,2023-09-25,"Fatigue, Vomiting, Fever, Sore Throat",Influenza,Relenza,Recovery
+420,34,Other,24.76084062778804,46.60760048615415,2023-07-29,"Nausea, Fever, Cough, Vomiting, Headache",Influenza,Paracetamol + Rest,Recovery
+421,92,Male,24.862011602853595,46.598034055472915,2023-01-13,"Fatigue, Shortness of Breath, Body Aches, Vomiting",Respiratory Infection,Azithromycin,Recovery
+422,79,Female,24.749161334878565,46.75831918118626,2023-07-20,"Nausea, Headache",COVID-19,Remdesivir,Recovery
+423,29,Other,24.682294196947684,46.7653398588395,2023-04-26,Vomiting,Stomach Virus,Ondansetron,Recovery
+424,53,Male,24.713529140542335,46.72042253193185,2023-07-05,Shortness of Breath,Stomach Virus,Pepto-Bismol,Recovery
+425,45,Male,24.588559226603028,46.793649366688996,2023-04-13,"Body Aches, Shortness of Breath, Nausea, Cough, Fever",COVID-19,Paxlovid,Recovery
+426,65,Male,24.774051532635536,46.557495913262365,2023-09-21,"Sore Throat, Fatigue, Cough, Fever, Vomiting",COVID-19,Remdesivir,Hospitalization
+427,20,Male,24.80183330623234,46.842022411155114,2023-07-15,"Shortness of Breath, Diarrhea, Body Aches, Vomiting",Influenza,Tamiflu,Recovery
+428,46,Male,24.668390966716693,46.82762386217122,2023-07-31,"Nausea, Fatigue, Diarrhea, Vomiting, Fever",Respiratory Infection,Amoxicillin,Recovery
+429,56,Female,24.66659578522405,46.74886219972458,2023-09-05,"Diarrhea, Body Aches, Vomiting",Allergic Reaction,Prednisone,Recovery
+430,13,Male,24.740187822965204,46.853479890877104,2023-04-13,"Sore Throat, Nausea",COVID-19,Paxlovid,Recovery
+431,18,Female,24.66992802639594,46.50963767923222,2023-02-02,"Body Aches, Vomiting",Influenza,Tamiflu,Hospitalization
+432,11,Other,24.706986738537417,46.622855186373734,2023-08-08,"Fatigue, Fever, Body Aches",Bronchitis,Amoxicillin,Recovery
+433,28,Female,24.92357217891665,46.601769653931804,2023-10-12,"Body Aches, Fatigue",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+434,47,Female,24.6888974299254,46.747447932375735,2023-10-19,"Cough, Headache, Shortness of Breath, Body Aches",COVID-19,Molnupiravir,Recovery
+435,70,Male,24.677765984797876,46.57028592603979,2023-04-04,"Headache, Fever, Fatigue, Sore Throat",COVID-19,Dexamethasone,Recovery
+436,34,Female,24.648845819436485,46.75104951493375,2023-07-18,"Vomiting, Diarrhea, Fever, Headache",Respiratory Infection,Levofloxacin,Recovery
+437,74,Female,24.788019197149993,46.81235361439967,2023-12-02,"Fatigue, Nausea, Shortness of Breath",Common Cold,Sudafed,Recovery
+438,16,Male,24.69547758267819,46.7448202900084,2023-09-30,"Sore Throat, Fatigue, Fever, Nausea, Shortness of Breath",Influenza,Tamiflu,Hospitalization
+439,14,Male,24.648662696167857,46.70367510236615,2023-01-05,"Vomiting, Nausea, Sore Throat, Fatigue, Diarrhea",COVID-19,Paxlovid,Hospitalization
+440,32,Female,24.8457304032273,46.576512665909924,2023-02-04,Sore Throat,Common Cold,Ibuprofen,Recovery
+441,40,Male,24.855560300451362,46.59061490338746,2023-03-31,"Body Aches, Shortness of Breath, Nausea",COVID-19,Dexamethasone,Recovery
+442,32,Male,24.65355764342613,46.80026189052967,2023-01-15,"Nausea, Headache",COVID-19,Paxlovid,Hospitalization
+443,11,Male,24.526946004863937,46.75323490039053,2023-11-24,"Diarrhea, Shortness of Breath",Common Cold,Ibuprofen,Recovery
+444,31,Male,24.81435136898369,46.671398048062244,2023-02-11,"Nausea, Cough",Common Cold,Ibuprofen,Recovery
+445,17,Female,24.645137017424,46.63350904542341,2023-10-03,"Vomiting, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+446,46,Female,24.792662559916277,46.472719212688865,2023-04-01,"Body Aches, Diarrhea, Fatigue, Vomiting",COVID-19,Paxlovid,Recovery
+447,39,Female,24.516589618228817,46.56821475813155,2023-01-31,"Shortness of Breath, Nausea, Fatigue",Allergic Reaction,Benadryl,Recovery
+448,20,Male,24.80285973382993,46.86644190871397,2023-11-26,Fever,Stomach Virus,Ondansetron,Recovery
+449,25,Male,24.59248280707192,46.54725444289976,2023-01-26,"Diarrhea, Vomiting, Sore Throat",Pneumonia,Piperacillin-Tazobactam,Recovery
+450,19,Female,24.78667641190665,46.69424798212211,2023-04-28,Fever,Common Cold,Nyquil,Recovery
+451,32,Male,24.715027306783643,46.77604439731952,2023-01-06,"Nausea, Headache, Vomiting",Respiratory Infection,Azithromycin,Recovery
+452,53,Male,24.618206058060334,46.54980773319977,2023-04-22,"Cough, Shortness of Breath, Sore Throat",Influenza,Relenza,Recovery
+453,20,Female,24.67289636870732,46.69377104747811,2023-05-30,Vomiting,Allergic Reaction,Loratadine,Recovery
+454,42,Male,24.78223184569567,46.76909155375107,2023-04-13,"Diarrhea, Fever, Body Aches",COVID-19,Remdesivir,Recovery
+455,25,Female,24.724189445311524,46.676549932190724,2023-07-31,"Nausea, Headache",COVID-19,Remdesivir,Recovery
+456,22,Male,24.77204129804725,46.96214030556668,2023-01-31,"Cough, Shortness of Breath, Vomiting",Stomach Virus,Ondansetron,Recovery
+457,31,Male,24.911244058451548,46.50844007411218,2023-04-26,"Vomiting, Fever",Common Cold,Nyquil,Recovery
+458,19,Male,24.557175838828893,46.78117285298839,2023-04-15,"Headache, Cough, Fatigue, Body Aches",COVID-19,Remdesivir,Hospitalization
+459,25,Other,24.87532125749686,46.65801982626035,2023-04-22,"Shortness of Breath, Sore Throat, Headache",Respiratory Infection,Levofloxacin,Recovery
+460,18,Female,24.724035593752323,46.75249201548367,2023-04-11,"Body Aches, Fever, Sore Throat, Diarrhea",Influenza,Xofluza,Recovery
+461,88,Female,24.623721595167687,46.71943071516993,2023-01-05,"Cough, Diarrhea",Influenza,Relenza,Recovery
+462,33,Female,24.5805686374261,46.601984380289004,2023-04-02,"Shortness of Breath, Fatigue",Influenza,Paracetamol + Rest,Recovery
+463,23,Male,24.694687960922295,46.698199639245935,2023-01-16,"Fever, Diarrhea, Nausea",Influenza,Relenza,Recovery
+464,36,Female,24.805765011192445,46.489509854860174,2023-08-31,Fatigue,Allergic Reaction,Benadryl,Recovery
+465,31,Male,24.700845087962247,46.73562475005714,2023-10-09,"Fever, Body Aches, Diarrhea",COVID-19,Molnupiravir,Hospitalization
+466,29,Female,24.864715493024736,46.70511584659905,2023-07-10,"Cough, Body Aches, Sore Throat, Diarrhea, Shortness of Breath",Influenza,Xofluza,Recovery
+467,45,Male,24.568482430994845,46.73916601686431,2023-04-25,Shortness of Breath,Influenza,Tamiflu,Hospitalization
+468,48,Female,24.712391105215396,46.781111832508714,2023-11-21,"Headache, Fever",Stomach Virus,Loperamide,Recovery
+469,25,Male,24.588360655558688,46.71206198402097,2023-04-10,"Cough, Body Aches",Respiratory Infection,Amoxicillin,Recovery
+470,24,Male,24.749963188262495,46.69010894197983,2023-07-18,"Fever, Vomiting, Diarrhea, Fatigue",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+471,28,Female,24.80228873900973,46.58719316633387,2023-07-16,"Body Aches, Diarrhea, Shortness of Breath",Pneumonia,Moxifloxacin,Recovery
+472,10,Male,24.671523820631894,46.604077923635096,2023-07-21,"Vomiting, Cough, Sore Throat, Diarrhea, Fever",Pneumonia,Moxifloxacin,Hospitalization
+473,15,Male,24.453178614337286,46.79397346201773,2023-03-31,"Vomiting, Sore Throat, Nausea, Fatigue, Headache",Respiratory Infection,Amoxicillin,Recovery
+474,65,Male,24.73349481467965,46.8189335405706,2023-07-11,"Sore Throat, Fatigue",COVID-19,Molnupiravir,Hospitalization
+475,75,Male,24.757273855173352,46.651488956368794,2023-05-12,Body Aches,Common Cold,Sudafed,Recovery
+476,29,Female,24.754029475496168,46.67990027472533,2023-01-08,"Body Aches, Headache, Fatigue, Diarrhea, Nausea",COVID-19,Paxlovid,Recovery
+477,44,Female,24.837178219182213,46.58483856250062,2023-01-05,"Sore Throat, Nausea, Body Aches, Headache",Influenza,Paracetamol + Rest,Recovery
+478,38,Female,24.606494632035094,46.792575684526746,2023-07-25,"Diarrhea, Sore Throat, Cough, Fatigue, Fever",Respiratory Infection,Levofloxacin,Recovery
+479,100,Female,24.781621610545045,46.74184168236918,2023-02-05,"Fever, Cough",Allergic Reaction,Benadryl,Recovery
+480,57,Male,24.832850751247797,46.86942174364638,2023-01-20,"Sore Throat, Fatigue, Nausea",COVID-19,Paxlovid,Recovery
+481,31,Female,24.535741241599347,46.587467692282026,2023-01-09,"Sore Throat, Vomiting",Influenza,Paracetamol + Rest,Recovery
+482,20,Male,24.745565182591896,46.63749921009818,2023-04-23,"Cough, Fatigue, Sore Throat, Diarrhea, Fever",COVID-19,Dexamethasone,Recovery
+483,14,Male,24.66318201689923,46.69844459225256,2023-09-29,"Diarrhea, Headache, Sore Throat, Vomiting, Body Aches",COVID-19,Remdesivir,Recovery
+484,36,Female,24.705447732689834,46.739948953772576,2023-09-28,"Shortness of Breath, Fever, Vomiting, Fatigue, Body Aches",Influenza,Xofluza,Recovery
+485,22,Male,24.748367648353835,46.65373323624524,2023-06-30,Fatigue,Common Cold,Ibuprofen,Recovery
+486,16,Female,24.664877143588644,46.58800389095463,2023-10-03,"Fever, Cough",Influenza,Tamiflu,Recovery
+487,23,Male,24.646029192083837,46.76344075289236,2023-04-20,"Headache, Body Aches, Fever",COVID-19,Molnupiravir,Hospitalization
+488,19,Female,24.7170152417488,46.747413536254555,2023-10-01,"Headache, Fatigue",COVID-19,Paxlovid,Hospitalization
+489,76,Female,24.60487540611372,46.583672589943625,2023-01-26,"Vomiting, Fever, Shortness of Breath, Nausea",Respiratory Infection,Amoxicillin,Recovery
+490,51,Female,24.605017487111482,46.81084428011055,2023-01-20,"Vomiting, Headache, Fever, Sore Throat, Diarrhea",COVID-19,Remdesivir,Recovery
+491,32,Female,24.78153732829565,46.79231987091966,2023-07-18,"Sore Throat, Nausea",COVID-19,Molnupiravir,Recovery
+492,69,Female,24.598720596484135,46.68872964972478,2023-01-09,"Shortness of Breath, Nausea, Vomiting, Fever, Cough",Pneumonia,Piperacillin-Tazobactam,Recovery
+493,34,Male,24.78023125009092,46.683259786237606,2023-10-08,"Headache, Vomiting, Diarrhea, Cough, Fatigue",COVID-19,Remdesivir,Hospitalization
+494,21,Female,24.759859129285395,46.73070577711159,2023-01-07,"Nausea, Vomiting, Body Aches",COVID-19,Dexamethasone,Hospitalization
+495,70,Male,24.54101932712094,46.589129692974375,2023-04-14,"Nausea, Sore Throat",COVID-19,Dexamethasone,Hospitalization
+496,43,Female,24.645843534766435,46.67830314791641,2023-01-02,"Sore Throat, Fatigue, Diarrhea, Headache, Body Aches",Respiratory Infection,Levofloxacin,Recovery
+497,19,Female,24.833010940304735,46.460061645539085,2023-08-05,"Sore Throat, Cough, Vomiting",Common Cold,Sudafed,Recovery
+498,30,Female,24.61548344688603,46.76294556455029,2023-05-24,"Nausea, Headache",Common Cold,Nyquil,Recovery
+499,21,Male,24.667159573769062,46.51915067775582,2023-01-11,"Headache, Diarrhea, Nausea, Fever, Sore Throat",Respiratory Infection,Azithromycin,Recovery
+500,16,Male,24.75980608932519,46.8256419828429,2023-09-27,"Sore Throat, Body Aches",Influenza,Tamiflu,Recovery
+501,52,Female,24.79193905092826,46.64228799060336,2023-04-09,"Fatigue, Shortness of Breath, Fever, Vomiting, Body Aches",Respiratory Infection,Azithromycin,Recovery
+502,86,Male,24.68844611139555,46.65413330180688,2023-07-26,"Shortness of Breath, Sore Throat, Diarrhea, Fatigue",COVID-19,Molnupiravir,Recovery
+503,16,Male,24.653848980530835,46.61252660939155,2023-12-28,"Fever, Cough",Allergic Reaction,Benadryl,Recovery
+504,43,Male,24.85583698616985,46.64649611260779,2023-04-10,"Shortness of Breath, Headache, Cough",Respiratory Infection,Amoxicillin,Recovery
+505,23,Female,24.887489966379757,46.817153134514804,2023-03-03,"Headache, Fatigue",Common Cold,Sudafed,Recovery
+506,25,Female,24.811485805078178,46.42651913434649,2023-04-24,"Fatigue, Fever, Sore Throat, Diarrhea, Headache",Respiratory Infection,Amoxicillin,Hospitalization
+507,24,Male,24.722131814256503,46.80299653860882,2023-05-23,"Cough, Body Aches, Nausea",Bronchitis,Benzonatate,Recovery
+508,21,Male,24.632773427835907,46.70910234811017,2023-04-28,"Headache, Diarrhea",Allergic Reaction,Cetirizine,Recovery
+509,33,Male,24.630555559344344,46.55459783521428,2023-10-12,"Fever, Shortness of Breath, Fatigue, Diarrhea, Cough",Pneumonia,Piperacillin-Tazobactam,Recovery
+510,21,Female,24.765851410526576,46.567768760695074,2023-01-16,"Shortness of Breath, Diarrhea, Sore Throat, Headache",Influenza,Xofluza,Hospitalization
+511,37,Female,24.755439822088867,46.84293930272082,2023-03-16,"Vomiting, Body Aches, Shortness of Breath",Stomach Virus,Ondansetron,Recovery
+512,32,Male,24.85375985929464,46.58074931200573,2023-07-27,"Vomiting, Body Aches, Cough, Nausea, Diarrhea",COVID-19,Paxlovid,Hospitalization
+513,29,Male,24.778645009253612,46.559964948940404,2023-09-30,"Shortness of Breath, Headache",COVID-19,Remdesivir,Recovery
+514,21,Male,24.563291969824018,46.78903145423647,2023-04-25,"Cough, Sore Throat, Nausea",Common Cold,Ibuprofen,Recovery
+515,24,Female,24.818794761772292,46.70915528762859,2023-04-15,"Sore Throat, Diarrhea, Fever, Fatigue, Nausea",COVID-19,Molnupiravir,Recovery
+516,48,Female,24.613793937268557,46.58150744234636,2023-07-15,"Shortness of Breath, Sore Throat",Influenza,Tamiflu,Recovery
+517,42,Male,24.675202872804764,46.69696249754046,2023-02-01,Vomiting,Bronchitis,Dextromethorphan,Recovery
+518,20,Male,24.73862002062517,46.57272473163597,2023-10-06,"Headache, Fever, Diarrhea",Respiratory Infection,Levofloxacin,Recovery
+519,34,Male,24.913166748978394,46.78538213984226,2023-03-10,"Headache, Sore Throat, Fatigue",Common Cold,Nyquil,Recovery
+520,48,Other,25.024591855600537,46.781437096487316,2023-05-17,Headache,Common Cold,Ibuprofen,Recovery
+521,14,Male,24.77427230591362,46.7285006198822,2023-02-03,Headache,Stomach Virus,Ondansetron,Recovery
+522,43,Female,24.69528033812796,46.7114661061247,2023-04-11,"Cough, Headache, Fever, Fatigue, Vomiting",COVID-19,Dexamethasone,Hospitalization
+523,23,Female,24.767050564848056,46.851418812486735,2023-07-04,"Shortness of Breath, Nausea, Body Aches",Common Cold,Ibuprofen,Recovery
+524,44,Male,24.802365542587385,46.67526863273882,2023-01-30,"Headache, Sore Throat, Body Aches",Allergic Reaction,Cetirizine,Recovery
+525,22,Male,24.68153323744428,46.55711258745792,2023-07-23,"Vomiting, Diarrhea, Shortness of Breath, Headache, Fatigue",COVID-19,Molnupiravir,Recovery
+526,13,Male,24.893121135591233,46.72024739128323,2023-07-22,"Nausea, Diarrhea, Fatigue",Influenza,Relenza,Hospitalization
+527,14,Female,24.73660707591914,46.883904704953714,2023-06-12,Headache,Stomach Virus,Electrolyte solution,Recovery
+528,33,Female,24.76337430890914,46.57382405068142,2023-05-10,"Diarrhea, Fatigue",Allergic Reaction,Cetirizine,Recovery
+529,37,Female,24.780192425205446,46.6391537233306,2023-01-16,"Sore Throat, Diarrhea, Fatigue, Vomiting, Headache",Influenza,Tamiflu,Recovery
+530,21,Female,24.755758661061446,46.71694460381015,2023-10-09,"Vomiting, Fever",Pneumonia,Moxifloxacin,Recovery
+531,45,Male,24.79749405004696,46.66990951509943,2023-11-29,Nausea,Allergic Reaction,Cetirizine,Recovery
+532,14,Other,24.65187468134531,46.57706964196227,2023-02-27,"Diarrhea, Headache, Fatigue",Common Cold,Sudafed,Recovery
+533,32,Female,24.657769824605396,46.78748578562305,2023-04-23,"Fever, Shortness of Breath",Influenza,Tamiflu,Hospitalization
+534,18,Male,24.60358457670283,46.907304072201725,2023-01-06,"Body Aches, Sore Throat, Headache",Influenza,Relenza,Hospitalization
+535,23,Other,24.75755012306202,46.69491314590239,2023-08-09,"Sore Throat, Fatigue, Nausea",Allergic Reaction,Loratadine,Recovery
+536,33,Female,24.79149365035121,46.5848931710264,2023-07-12,"Cough, Fever, Diarrhea, Sore Throat, Fatigue",Influenza,Xofluza,Hospitalization
+537,21,Female,24.759377286615187,46.52040394749465,2023-01-26,"Sore Throat, Headache, Fever",COVID-19,Molnupiravir,Hospitalization
+538,27,Female,24.881049243334754,46.70109759812212,2023-10-15,"Sore Throat, Cough",Influenza,Tamiflu,Hospitalization
+539,54,Female,24.713040398117094,46.785687734331624,2023-10-20,"Shortness of Breath, Fatigue, Fever",Stomach Virus,Pepto-Bismol,Recovery
+540,24,Female,24.78047416555925,46.72281677464954,2023-07-23,"Sore Throat, Headache, Shortness of Breath, Vomiting, Fatigue",Respiratory Infection,Amoxicillin,Recovery
+541,50,Male,24.604429912386067,46.67505961590811,2023-04-10,"Shortness of Breath, Body Aches, Nausea, Fatigue, Vomiting",COVID-19,Remdesivir,Hospitalization
+542,18,Male,24.67489002975256,46.61637283482107,2023-04-17,"Fever, Diarrhea",COVID-19,Molnupiravir,Hospitalization
+543,43,Female,24.783153775756578,46.566083636728195,2023-10-14,"Shortness of Breath, Sore Throat",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+544,68,Male,24.798510211074316,46.758775132632486,2023-04-20,"Headache, Diarrhea, Body Aches, Cough",COVID-19,Molnupiravir,Recovery
+545,9,Male,24.68420330523358,46.766677162138556,2023-04-10,"Sore Throat, Fatigue",COVID-19,Remdesivir,Recovery
+546,22,Male,24.706440074814193,46.52072702133093,2023-01-30,Vomiting,Allergic Reaction,Loratadine,Recovery
+547,44,Male,24.561812625331918,46.83428389781807,2023-01-19,"Cough, Vomiting, Body Aches, Sore Throat, Shortness of Breath",Respiratory Infection,Amoxicillin,Hospitalization
+548,29,Female,24.67789707991934,46.7327071220894,2023-10-03,"Shortness of Breath, Sore Throat",Influenza,Xofluza,Recovery
+549,39,Female,24.802638316351977,46.81525946451458,2023-10-02,"Nausea, Body Aches, Fatigue, Diarrhea, Cough",COVID-19,Paxlovid,Recovery
+550,24,Male,24.771120501610657,46.541087225151486,2023-07-17,"Fatigue, Cough",COVID-19,Molnupiravir,Recovery
+551,34,Male,24.76366657213812,46.53871758445845,2023-07-17,"Vomiting, Cough, Headache, Fever",COVID-19,Molnupiravir,Recovery
+552,30,Male,24.718577368718094,46.66040306902327,2023-08-08,"Diarrhea, Body Aches",Stomach Virus,Pepto-Bismol,Recovery
+553,59,Female,24.714306315862817,46.72557844268952,2023-04-09,"Diarrhea, Shortness of Breath, Headache, Fever",COVID-19,Paxlovid,Recovery
+554,37,Female,24.647567886052656,46.854936082292696,2023-07-07,"Shortness of Breath, Diarrhea, Vomiting",Influenza,Relenza,Hospitalization
+555,39,Male,24.783482842020252,46.74590789138151,2023-08-17,"Shortness of Breath, Fatigue",Bronchitis,Benzonatate,Recovery
+556,26,Female,24.75569729443894,46.651031872318796,2023-01-16,"Headache, Fatigue, Nausea, Vomiting, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+557,25,Female,24.76280188479928,46.57266307923341,2023-01-26,"Fever, Fatigue, Body Aches, Nausea, Vomiting",Influenza,Tamiflu,Hospitalization
+558,26,Female,24.660996515733242,46.798300057271916,2023-09-29,"Fever, Headache, Vomiting, Fatigue",COVID-19,Remdesivir,Recovery
+559,40,Female,24.498265708012877,46.57882945742493,2023-01-09,"Fatigue, Body Aches, Nausea",Respiratory Infection,Azithromycin,Recovery
+560,26,Male,24.823315271175368,46.838146855477234,2023-01-26,"Headache, Diarrhea, Fatigue, Fever, Shortness of Breath",Respiratory Infection,Levofloxacin,Recovery
+561,38,Female,24.665716254399157,46.64686153503935,2023-06-10,"Nausea, Sore Throat, Vomiting",Bronchitis,Benzonatate,Recovery
+562,93,Male,24.627322423595686,46.834358207261786,2023-01-15,"Fever, Cough, Body Aches, Headache, Fatigue",Influenza,Xofluza,Recovery
+563,51,Female,24.782947891191398,46.74319312900593,2023-04-27,Fatigue,Common Cold,Sudafed,Recovery
+564,28,Female,24.674398736008087,46.661600451055754,2023-10-07,"Cough, Body Aches, Diarrhea, Headache",Influenza,Paracetamol + Rest,Recovery
+565,60,Female,24.819593638404662,46.62336036281739,2023-06-03,"Sore Throat, Headache",Stomach Virus,Pepto-Bismol,Recovery
+566,27,Female,24.77530059495767,46.641209212265395,2023-01-10,"Vomiting, Cough, Shortness of Breath",COVID-19,Dexamethasone,Recovery
+567,11,Male,24.781956932320046,46.71813166923752,2023-04-13,"Shortness of Breath, Fatigue, Sore Throat, Body Aches, Cough",Influenza,Tamiflu,Recovery
+568,20,Female,24.577004428879945,46.68301564962177,2023-04-16,"Cough, Headache, Fatigue, Nausea",Respiratory Infection,Amoxicillin,Recovery
+569,12,Other,24.83479439853864,46.61591885919313,2023-03-13,Body Aches,Common Cold,Paracetamol,Recovery
+570,27,Female,24.739725053123387,46.65873685896824,2023-01-27,"Fatigue, Cough, Sore Throat, Vomiting",COVID-19,Paxlovid,Recovery
+571,33,Male,24.67667228607538,46.68315770297192,2023-04-05,"Body Aches, Fever, Cough, Headache, Sore Throat",Respiratory Infection,Azithromycin,Hospitalization
+572,76,Male,24.727938846734226,46.46242659055852,2023-09-03,"Cough, Fever",Common Cold,Paracetamol,Recovery
+573,38,Male,24.535976476710168,46.72111681147887,2023-05-20,"Sore Throat, Cough",Common Cold,Paracetamol,Recovery
+574,29,Female,24.754465281148068,46.57732787752832,2023-04-18,"Body Aches, Fever, Headache, Shortness of Breath",Influenza,Xofluza,Recovery
+575,50,Female,24.610662849181793,46.559966759679426,2023-07-17,"Nausea, Fever, Shortness of Breath, Headache, Body Aches",COVID-19,Paxlovid,Recovery
+576,10,Male,24.578332971415644,46.50656556528893,2023-01-25,"Nausea, Body Aches, Headache, Fever, Fatigue",Influenza,Paracetamol + Rest,Recovery
+577,37,Female,24.561364081378212,46.49591075021321,2023-01-27,"Shortness of Breath, Fatigue, Fever",COVID-19,Paxlovid,Recovery
+578,48,Female,24.824868837498993,46.539755249688774,2023-07-29,"Body Aches, Cough",Influenza,Xofluza,Recovery
+579,15,Female,24.65067366063072,46.604397904236954,2023-01-06,"Shortness of Breath, Headache",Pneumonia,Piperacillin-Tazobactam,Recovery
+580,58,Female,24.866972770991648,46.870625913752654,2023-02-03,"Cough, Headache",Common Cold,Nyquil,Recovery
+581,39,Female,24.66001985369477,46.62271203241048,2023-08-09,Shortness of Breath,Common Cold,Ibuprofen,Recovery
+582,26,Female,24.542864204240704,46.693075010626806,2023-07-15,"Fever, Fatigue, Nausea, Sore Throat, Headache",Influenza,Paracetamol + Rest,Recovery
+583,45,Male,24.601947556005133,46.71534813865063,2023-10-11,"Diarrhea, Body Aches, Cough, Nausea",Respiratory Infection,Levofloxacin,Recovery
+584,100,Female,24.837181162000693,46.68840651862158,2023-07-29,"Headache, Cough, Diarrhea",COVID-19,Dexamethasone,Recovery
+585,36,Female,24.698010182206332,46.6675556539274,2023-05-13,Fatigue,Stomach Virus,Pepto-Bismol,Recovery
+586,37,Female,24.65877127035094,46.55577062364008,2023-05-01,Diarrhea,Stomach Virus,Ondansetron,Recovery
+587,26,Female,24.729601822585277,46.82039275482792,2023-05-09,Diarrhea,Bronchitis,Azithromycin,Recovery
+588,21,Female,24.763778273616754,46.856019664363785,2023-08-07,"Fever, Diarrhea, Body Aches",Stomach Virus,Ondansetron,Recovery
+589,50,Male,24.825339881590246,46.50703413058773,2023-11-29,"Fatigue, Nausea, Fever",Influenza,Tamiflu,Recovery
+590,21,Male,24.85844992298929,46.572897140911365,2023-01-17,"Shortness of Breath, Sore Throat, Vomiting",Respiratory Infection,Levofloxacin,Recovery
+591,34,Male,24.67762313542109,46.6473189657623,2023-09-27,"Headache, Sore Throat, Body Aches",Pneumonia,Moxifloxacin,Recovery
+592,26,Male,24.580995231391796,46.57884622050898,2023-08-01,"Body Aches, Fever",Pneumonia,Levofloxacin,Hospitalization
+593,42,Female,24.672253483887673,46.725896555345585,2023-01-29,"Body Aches, Headache, Sore Throat, Fever",Influenza,Paracetamol + Rest,Recovery
+594,39,Other,24.73962805065829,46.60247277975934,2023-04-14,"Diarrhea, Sore Throat, Vomiting",COVID-19,Remdesivir,Recovery
+595,55,Male,24.617224107378938,46.89180560678066,2023-04-08,"Nausea, Headache",Influenza,Paracetamol + Rest,Recovery
+596,25,Male,24.617884908510494,46.79435485943436,2023-04-16,"Headache, Cough, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+597,28,Female,24.747978788154988,46.696557403063224,2023-03-05,Sore Throat,Stomach Virus,Electrolyte solution,Recovery
+598,20,Male,24.708734764842955,46.77799862633197,2023-10-17,"Body Aches, Diarrhea, Fever, Cough",Pneumonia,Moxifloxacin,Recovery
+599,26,Female,24.71687969954116,46.78589004243573,2023-01-31,"Fatigue, Vomiting",Allergic Reaction,Loratadine,Recovery
+600,39,Female,24.637750466529994,46.61890525119418,2023-10-09,"Shortness of Breath, Sore Throat, Body Aches",Respiratory Infection,Doxycycline,Recovery
+601,48,Female,24.69055992857942,46.593678275545805,2023-11-30,"Shortness of Breath, Cough",Influenza,Tamiflu,Recovery
+602,20,Male,24.621176685573168,46.683114306296964,2023-10-31,"Fever, Nausea",Influenza,Relenza,Hospitalization
+603,51,Male,24.802619841112477,46.761463612449795,2023-07-31,"Fatigue, Body Aches",COVID-19,Paxlovid,Hospitalization
+604,65,Female,24.817124933472375,46.68920603986534,2023-01-10,"Cough, Headache, Nausea, Vomiting, Body Aches",COVID-19,Dexamethasone,Recovery
+605,40,Female,24.52898121377619,46.5176003517809,2023-09-06,Nausea,Stomach Virus,Pepto-Bismol,Recovery
+606,84,Male,24.62064891398076,46.59501755560492,2023-07-19,"Shortness of Breath, Fever",COVID-19,Paxlovid,Recovery
+607,22,Female,24.56394707449099,46.667902713640565,2023-07-21,"Fever, Cough, Fatigue",COVID-19,Paxlovid,Recovery
+608,17,Male,24.64859760655931,46.667733439567414,2023-01-21,"Nausea, Shortness of Breath, Diarrhea, Fatigue, Body Aches",COVID-19,Remdesivir,Recovery
+609,13,Female,24.705256203020962,46.87255421767898,2023-06-17,"Cough, Headache",Common Cold,Paracetamol,Recovery
+610,69,Male,24.568635478030146,46.5367012057601,2023-07-21,"Fever, Cough, Sore Throat, Headache, Diarrhea",Pneumonia,Levofloxacin,Recovery
+611,45,Female,24.621414018687467,46.72585892418359,2023-09-05,"Shortness of Breath, Nausea, Cough",Allergic Reaction,Benadryl,Recovery
+612,32,Male,24.61320426279185,46.82421131083283,2023-08-08,"Diarrhea, Fatigue",Allergic Reaction,Benadryl,Recovery
+613,38,Male,24.734326732939895,46.90244497454228,2023-01-15,"Fatigue, Body Aches, Fever, Cough",Respiratory Infection,Doxycycline,Recovery
+614,18,Male,24.720534433703623,46.6348602576816,2023-07-26,"Sore Throat, Diarrhea, Vomiting",COVID-19,Dexamethasone,Recovery
+615,100,Male,24.641426244666274,46.72444294527202,2023-07-10,"Headache, Sore Throat, Shortness of Breath",Respiratory Infection,Azithromycin,Recovery
+616,35,Female,24.731282087213938,46.73227603571986,2023-04-04,"Cough, Headache",Influenza,Relenza,Recovery
+617,34,Other,24.658931991541273,46.69484817315533,2023-01-31,"Diarrhea, Sore Throat",Common Cold,Sudafed,Recovery
+618,47,Male,24.686434488967393,46.66541547987607,2023-01-06,"Fatigue, Cough, Headache",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+619,42,Male,24.880945209029854,46.71889753895,2023-01-27,"Vomiting, Diarrhea, Sore Throat, Shortness of Breath, Headache",Respiratory Infection,Azithromycin,Recovery
+620,37,Female,24.847646105179034,46.42207539147803,2023-12-25,"Body Aches, Nausea, Cough",Common Cold,Sudafed,Recovery
+621,22,Female,24.58364187630724,46.74350694900626,2023-04-04,"Cough, Headache, Fever, Diarrhea, Nausea",COVID-19,Molnupiravir,Recovery
+622,41,Female,24.796573241787918,46.6879177903662,2023-12-07,Fatigue,Bronchitis,Azithromycin,Recovery
+623,84,Male,24.79473965544916,46.653052510322176,2023-08-07,"Cough, Fatigue, Shortness of Breath",Common Cold,Ibuprofen,Recovery
+624,64,Male,24.59877367112474,46.879986219571954,2023-04-24,"Sore Throat, Shortness of Breath, Fatigue, Vomiting",Influenza,Xofluza,Hospitalization
+625,73,Female,24.795477764375487,46.607806598120945,2023-10-20,Body Aches,Allergic Reaction,Prednisone,Recovery
+626,25,Male,24.867393191841256,46.6349924010935,2023-01-07,"Diarrhea, Nausea, Vomiting, Sore Throat",Influenza,Xofluza,Recovery
+627,20,Female,24.60134551937556,46.87445533022047,2023-07-14,"Body Aches, Nausea, Fever",Influenza,Paracetamol + Rest,Recovery
+628,31,Male,24.621849717898574,46.59209386951501,2023-02-17,Shortness of Breath,Stomach Virus,Loperamide,Recovery
+629,34,Female,24.81536614668435,46.620288471706345,2023-07-12,"Body Aches, Shortness of Breath, Fatigue",Influenza,Paracetamol + Rest,Recovery
+630,57,Male,24.740749531082564,46.66059745765691,2023-01-06,"Headache, Fever, Body Aches, Sore Throat",Respiratory Infection,Azithromycin,Recovery
+631,14,Female,24.76874762752395,46.759373448212955,2023-01-29,"Vomiting, Sore Throat, Nausea",COVID-19,Dexamethasone,Recovery
+632,71,Female,24.74765892164005,46.69608025073533,2023-11-05,"Fever, Diarrhea",Allergic Reaction,Benadryl,Recovery
+633,30,Female,24.752669592092815,46.546037465284776,2023-03-10,"Vomiting, Body Aches",Stomach Virus,Electrolyte solution,Recovery
+634,26,Male,24.58095278716889,46.622083143687284,2023-03-31,"Cough, Fever",COVID-19,Paxlovid,Recovery
+635,19,Female,24.818331770662144,46.61456455667878,2023-04-19,"Fever, Shortness of Breath",Influenza,Paracetamol + Rest,Recovery
+636,14,Female,24.830558999242776,46.6675778954777,2023-04-19,"Cough, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+637,49,Female,24.690660925593196,46.717884365862986,2023-01-14,"Fatigue, Shortness of Breath, Body Aches",Respiratory Infection,Azithromycin,Recovery
+638,34,Female,24.709252305018612,46.717120575588794,2023-09-13,"Shortness of Breath, Sore Throat, Cough",Common Cold,Ibuprofen,Recovery
+639,17,Female,24.56048924974443,46.49769882459516,2023-10-10,"Vomiting, Body Aches, Headache, Diarrhea, Nausea",Influenza,Xofluza,Recovery
+640,17,Female,24.76502547560178,46.781694098756084,2023-05-17,"Fever, Body Aches, Shortness of Breath",Bronchitis,Azithromycin,Recovery
+641,27,Male,24.770805744171415,46.70055688459966,2023-07-27,"Sore Throat, Body Aches, Fatigue, Vomiting",Pneumonia,Piperacillin-Tazobactam,Recovery
+642,76,Female,24.70738089830007,46.813753204759394,2023-07-27,"Nausea, Body Aches",COVID-19,Dexamethasone,Recovery
+643,29,Female,24.82603533598705,46.71971983272907,2023-02-04,"Headache, Cough",Influenza,Paracetamol + Rest,Recovery
+644,15,Male,24.680192276902005,46.785432295773575,2023-10-03,"Diarrhea, Nausea",Respiratory Infection,Levofloxacin,Hospitalization
+645,29,Male,24.77006059258936,46.721954531145016,2023-11-01,"Headache, Shortness of Breath",Stomach Virus,Ondansetron,Recovery
+646,28,Male,24.611633566130788,46.80992257562028,2023-10-20,"Cough, Nausea",Common Cold,Paracetamol,Recovery
+647,8,Female,24.711244784912576,46.727525063601774,2023-07-25,"Fever, Headache, Vomiting, Shortness of Breath",Influenza,Tamiflu,Hospitalization
+648,32,Female,24.696164574209718,46.66550847535571,2023-04-17,"Fatigue, Nausea, Fever, Headache",Respiratory Infection,Levofloxacin,Recovery
+649,29,Female,24.736130792204094,46.90254347204469,2023-01-18,"Shortness of Breath, Body Aches",Pneumonia,Piperacillin-Tazobactam,Recovery
+650,46,Female,24.676647307116664,46.76420371222799,2023-01-29,"Shortness of Breath, Nausea, Sore Throat, Fever",Respiratory Infection,Azithromycin,Recovery
+651,83,Male,24.700452740432834,46.73267444210044,2023-08-03,"Diarrhea, Fatigue, Fever, Sore Throat, Nausea",Influenza,Relenza,Recovery
+652,58,Male,24.79620471714415,46.547669558346165,2023-04-13,"Diarrhea, Headache, Shortness of Breath, Sore Throat",COVID-19,Paxlovid,Recovery
+653,28,Male,24.66992357627618,46.54646923825365,2023-04-18,"Cough, Headache, Nausea, Body Aches",COVID-19,Remdesivir,Recovery
+654,19,Male,24.552942289926133,46.70457154821418,2023-03-18,Body Aches,Common Cold,Ibuprofen,Recovery
+655,100,Male,24.888558390420542,46.68985211977682,2023-08-26,"Nausea, Fever",Common Cold,Sudafed,Recovery
+656,34,Male,24.85174540786905,46.61388774349917,2023-10-12,"Diarrhea, Nausea, Vomiting",Influenza,Relenza,Recovery
+657,33,Female,24.58437373048944,46.6893982699612,2023-10-23,"Fatigue, Cough",Allergic Reaction,Cetirizine,Recovery
+658,32,Female,24.78257078052452,46.83416269280436,2023-01-19,"Headache, Sore Throat, Diarrhea",COVID-19,Remdesivir,Recovery
+659,36,Other,24.663302522944864,46.74484024745503,2023-08-02,"Sore Throat, Cough, Body Aches",Respiratory Infection,Azithromycin,Recovery
+660,30,Female,24.739948721533107,46.56119914902472,2023-10-19,"Shortness of Breath, Cough, Fever, Diarrhea, Body Aches",Respiratory Infection,Amoxicillin,Recovery
+661,24,Female,24.74302241290135,46.6641491172857,2023-04-23,"Headache, Fever",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+662,25,Male,24.69015921996837,46.59480335191474,2023-12-13,"Sore Throat, Nausea",Stomach Virus,Electrolyte solution,Recovery
+663,32,Female,24.63522343344136,46.636530008359145,2023-09-10,Fatigue,Common Cold,Ibuprofen,Fatality
+664,25,Female,24.644545894768374,46.63393843343704,2023-01-20,"Diarrhea, Headache, Fatigue, Fever",COVID-19,Dexamethasone,Hospitalization
+665,23,Male,24.621980808451877,46.627535441739596,2023-08-04,Diarrhea,Allergic Reaction,Prednisone,Recovery
+666,34,Male,24.630417779176955,46.54978646280266,2023-04-11,"Body Aches, Vomiting, Sore Throat, Diarrhea, Shortness of Breath",Influenza,Tamiflu,Recovery
+667,29,Female,24.706882170995065,46.66253453184818,2023-01-22,"Body Aches, Fever, Headache, Cough, Nausea",Pneumonia,Moxifloxacin,Recovery
+668,70,Male,24.642024001088924,46.619239236315266,2023-10-11,"Fatigue, Vomiting, Headache, Sore Throat, Shortness of Breath",Influenza,Tamiflu,Recovery
+669,8,Female,24.78180520657126,46.38235513099977,2023-04-23,"Shortness of Breath, Fatigue, Vomiting, Sore Throat",COVID-19,Paxlovid,Recovery
+670,57,Female,24.86232461553359,46.88059720245017,2023-01-06,"Sore Throat, Fatigue, Body Aches, Diarrhea",COVID-19,Molnupiravir,Recovery
+671,61,Male,24.655594675862996,46.784176965421665,2023-02-02,"Shortness of Breath, Fatigue, Vomiting",Allergic Reaction,Cetirizine,Recovery
+672,11,Male,24.737540450053537,46.6376699275075,2023-09-30,"Diarrhea, Body Aches",COVID-19,Paxlovid,Recovery
+673,27,Male,24.763568511030293,46.67718190497406,2023-07-10,"Nausea, Headache, Body Aches",COVID-19,Remdesivir,Hospitalization
+674,27,Male,24.760800227091927,46.55813456526825,2023-10-28,"Nausea, Cough, Vomiting",Common Cold,Paracetamol,Recovery
+675,16,Male,24.721195526791607,46.84487228778109,2023-08-25,"Vomiting, Fatigue, Cough",Common Cold,Ibuprofen,Recovery
+676,22,Female,24.787868241835973,46.865028869477314,2023-07-01,"Nausea, Fever, Diarrhea",Bronchitis,Azithromycin,Recovery
+677,19,Male,24.761824895268067,46.690969372824654,2023-08-04,"Cough, Vomiting",Common Cold,Paracetamol,Recovery
+678,79,Female,24.58983375776727,46.77765306441854,2023-08-09,"Sore Throat, Headache, Nausea",Common Cold,Paracetamol,Recovery
+679,52,Male,24.80051560643893,46.692828677893395,2023-10-11,"Cough, Fatigue, Nausea, Vomiting, Sore Throat",COVID-19,Dexamethasone,Recovery
+680,62,Female,24.802329083726672,46.54162745611241,2023-10-20,"Shortness of Breath, Nausea, Fever",Common Cold,Ibuprofen,Recovery
+681,47,Male,24.637271389582143,46.63411766310364,2023-02-04,"Diarrhea, Headache",Allergic Reaction,Benadryl,Recovery
+682,18,Male,24.71739378354476,46.688492796677195,2023-01-25,"Fever, Vomiting, Diarrhea",COVID-19,Molnupiravir,Hospitalization
+683,25,Female,24.781932899281106,46.62984522812565,2023-10-12,"Diarrhea, Sore Throat, Fatigue, Shortness of Breath",Respiratory Infection,Levofloxacin,Recovery
+684,42,Female,24.692668618042063,46.653434672256495,2023-01-30,"Body Aches, Fever, Cough",Stomach Virus,Electrolyte solution,Recovery
+685,17,Male,24.8208978047766,46.66616004424909,2023-07-17,"Diarrhea, Sore Throat, Fatigue, Body Aches, Nausea",Influenza,Relenza,Recovery
+686,47,Female,24.949987249461934,46.66721215021345,2023-04-21,"Shortness of Breath, Cough, Vomiting",COVID-19,Molnupiravir,Hospitalization
+687,29,Male,24.635001396736502,46.68052584904975,2023-02-01,"Diarrhea, Fatigue, Sore Throat",Influenza,Xofluza,Recovery
+688,27,Female,24.57549553968462,46.56923949336034,2023-07-20,"Cough, Body Aches, Headache, Shortness of Breath, Fever",Influenza,Paracetamol + Rest,Recovery
+689,47,Male,24.74398185956049,46.6035983850872,2023-04-10,"Shortness of Breath, Fever, Nausea",COVID-19,Dexamethasone,Recovery
+690,41,Male,24.785756250512613,46.54684157343,2023-01-15,"Cough, Body Aches, Fatigue",Influenza,Tamiflu,Recovery
+691,27,Female,24.690513362615523,46.77308155496862,2023-01-09,"Fatigue, Nausea, Fever",COVID-19,Remdesivir,Recovery
+692,59,Female,24.858926066332103,46.46473530581597,2023-04-24,"Body Aches, Nausea, Cough",Respiratory Infection,Levofloxacin,Recovery
+693,19,Male,24.579739420027675,46.79065903433169,2023-09-26,"Body Aches, Vomiting, Fever, Fatigue, Sore Throat",Respiratory Infection,Amoxicillin,Recovery
+694,45,Female,24.78289186230316,46.81393493972629,2023-09-28,"Shortness of Breath, Nausea, Diarrhea, Vomiting, Fever",Respiratory Infection,Levofloxacin,Recovery
+695,44,Female,24.65301391792411,46.64508194130174,2023-04-22,"Body Aches, Headache, Fatigue",Influenza,Paracetamol + Rest,Recovery
+696,28,Male,24.88553779062073,46.41498629121727,2023-11-27,Cough,Common Cold,Nyquil,Recovery
+697,38,Female,24.91285153531681,46.63916894380327,2023-04-26,"Shortness of Breath, Vomiting, Fever",Common Cold,Sudafed,Recovery
+698,17,Male,24.636934341221664,46.66888158387112,2023-05-19,"Cough, Body Aches, Shortness of Breath",Common Cold,Nyquil,Recovery
+699,52,Female,24.658644286409142,46.57424017800711,2023-02-19,Fatigue,Common Cold,Nyquil,Recovery
+700,30,Female,24.79955878869798,46.623778160619175,2023-04-02,"Cough, Vomiting, Shortness of Breath, Nausea",Influenza,Tamiflu,Recovery
+701,25,Female,24.67488693502105,46.828319519886335,2023-07-10,"Diarrhea, Fever, Body Aches",COVID-19,Molnupiravir,Recovery
+702,55,Male,24.709058878206775,46.74179271623017,2023-07-30,"Cough, Shortness of Breath, Sore Throat, Fever",Respiratory Infection,Azithromycin,Recovery
+703,23,Male,24.716138842054242,46.58284358856219,2023-03-16,"Fever, Shortness of Breath, Headache",Stomach Virus,Ondansetron,Recovery
+704,16,Male,24.521632684380233,46.515540083040456,2023-01-14,"Fatigue, Fever, Headache, Vomiting, Shortness of Breath",COVID-19,Dexamethasone,Recovery
+705,15,Male,24.712216225390577,46.64259826823902,2023-07-30,"Body Aches, Diarrhea, Fever, Shortness of Breath, Cough",COVID-19,Remdesivir,Recovery
+706,44,Male,24.64462722259358,46.653954322064955,2023-02-01,"Headache, Fatigue",Allergic Reaction,Loratadine,Recovery
+707,17,Female,24.664287717760022,46.72491991873633,2023-11-02,"Vomiting, Nausea",Stomach Virus,Loperamide,Recovery
+708,79,Male,24.85796320034688,46.62176832874324,2023-03-10,"Shortness of Breath, Sore Throat, Fever",Influenza,Xofluza,Recovery
+709,11,Male,24.587949310572075,46.72644995753619,2023-04-07,"Sore Throat, Diarrhea, Cough, Vomiting",Respiratory Infection,Doxycycline,Recovery
+710,77,Female,24.794920518674797,46.86881540400602,2023-07-12,"Sore Throat, Body Aches, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+711,36,Male,24.68570370696682,46.75685010224443,2023-04-17,"Cough, Diarrhea",Influenza,Xofluza,Recovery
+712,31,Female,24.685623983150418,46.67049114926692,2023-07-26,"Fever, Shortness of Breath, Sore Throat, Headache, Nausea",Influenza,Paracetamol + Rest,Recovery
+713,25,Male,24.79263718960517,46.65698495289467,2023-08-09,"Headache, Sore Throat",Common Cold,Sudafed,Recovery
+714,40,Female,24.74760512945689,46.63963268658201,2023-04-13,"Nausea, Vomiting",COVID-19,Molnupiravir,Recovery
+715,32,Male,24.770661299721954,46.793364091245216,2023-10-06,"Fever, Shortness of Breath, Headache, Vomiting",Respiratory Infection,Doxycycline,Recovery
+716,57,Male,24.810418466053285,46.61256865540487,2023-04-14,"Shortness of Breath, Body Aches, Headache, Cough, Fever",COVID-19,Paxlovid,Recovery
+717,35,Female,24.680469161681668,46.6798222709,2023-01-11,"Shortness of Breath, Fatigue",COVID-19,Remdesivir,Recovery
+718,35,Male,24.652376326549224,46.68041979018811,2023-04-11,"Diarrhea, Nausea, Cough, Vomiting, Headache",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+719,27,Female,24.60508494734422,46.62512158071885,2023-10-08,"Shortness of Breath, Headache, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+720,32,Male,24.631058947002103,46.53805344521159,2023-09-30,"Headache, Body Aches, Nausea, Fever, Fatigue",Influenza,Xofluza,Recovery
+721,38,Male,25.008509442530872,46.70759745036177,2023-09-29,"Vomiting, Body Aches",COVID-19,Dexamethasone,Recovery
+722,14,Female,24.83806795807368,46.66919960281446,2023-04-01,"Vomiting, Sore Throat, Headache, Shortness of Breath, Fatigue",Respiratory Infection,Amoxicillin,Recovery
+723,16,Male,24.578492563379196,46.725324046943655,2023-07-22,"Body Aches, Fatigue, Vomiting",COVID-19,Molnupiravir,Recovery
+724,48,Female,24.581354204325642,46.621939969356085,2023-09-25,"Cough, Shortness of Breath, Fatigue, Headache, Diarrhea",COVID-19,Paxlovid,Recovery
+725,36,Other,24.76178660617185,46.797382129881306,2023-11-28,Body Aches,Bronchitis,Benzonatate,Recovery
+726,30,Female,24.768326479737798,46.587622621878815,2023-10-02,"Vomiting, Diarrhea, Fatigue, Shortness of Breath, Body Aches",Respiratory Infection,Levofloxacin,Recovery
+727,33,Female,24.768488383531736,46.84650402840179,2023-06-11,Sore Throat,Influenza,Paracetamol + Rest,Recovery
+728,39,Male,24.68810442064463,46.500536349017175,2023-04-02,"Nausea, Diarrhea, Vomiting",Respiratory Infection,Levofloxacin,Hospitalization
+729,25,Male,24.70105457399971,46.71877700645569,2023-02-11,"Cough, Sore Throat, Nausea",Influenza,Xofluza,Recovery
+730,22,Male,24.746387952415937,46.722843068252665,2023-04-13,"Body Aches, Fatigue",COVID-19,Remdesivir,Recovery
+731,36,Female,24.72218930062933,46.59574429320591,2023-10-02,"Body Aches, Diarrhea, Sore Throat, Fatigue, Vomiting",Influenza,Relenza,Hospitalization
+732,20,Other,24.491669962725247,46.717739393786104,2023-01-25,"Diarrhea, Fatigue",COVID-19,Dexamethasone,Recovery
+733,40,Male,24.69062003694248,46.80325186697602,2023-07-13,"Nausea, Cough, Sore Throat, Body Aches",COVID-19,Paxlovid,Hospitalization
+734,14,Female,24.62845935657397,46.4536181160646,2023-11-01,Diarrhea,Stomach Virus,Electrolyte solution,Recovery
+735,55,Male,24.73112114189085,46.72557448074908,2023-10-01,"Fever, Vomiting, Sore Throat, Diarrhea, Cough",COVID-19,Paxlovid,Recovery
+736,41,Female,25.01212590026034,46.425972917966995,2023-04-24,"Vomiting, Body Aches, Fatigue",COVID-19,Molnupiravir,Recovery
+737,37,Male,24.75034816654743,46.57873351964768,2023-01-07,"Body Aches, Vomiting",Influenza,Tamiflu,Hospitalization
+738,54,Other,24.68224703138276,46.838216636490095,2023-04-02,"Vomiting, Fatigue, Headache, Nausea, Fever",Pneumonia,Levofloxacin,Hospitalization
+739,76,Female,24.805780150197723,46.6171217966608,2023-12-25,"Shortness of Breath, Headache, Diarrhea",Stomach Virus,Electrolyte solution,Recovery
+740,54,Male,24.76186878872092,46.5579120035591,2023-04-20,"Body Aches, Sore Throat, Fatigue, Cough",Influenza,Paracetamol + Rest,Recovery
+741,13,Male,24.755609449045185,46.65550622710153,2023-10-04,"Body Aches, Sore Throat, Headache, Shortness of Breath, Fatigue",Pneumonia,Piperacillin-Tazobactam,Recovery
+742,17,Male,24.774285059321567,46.882090633816354,2023-04-22,"Vomiting, Body Aches",COVID-19,Remdesivir,Recovery
+743,24,Male,24.919254356482952,46.4921317752794,2023-04-27,"Headache, Sore Throat",Stomach Virus,Ondansetron,Recovery
+744,33,Male,24.60051115646741,46.57016900883607,2023-10-25,"Nausea, Sore Throat",Stomach Virus,Loperamide,Recovery
+745,42,Female,24.760963207681144,46.82504316831796,2023-04-19,"Sore Throat, Fatigue",Influenza,Relenza,Recovery
+746,23,Female,24.620961887001847,46.861070234353775,2023-10-05,"Body Aches, Fever, Fatigue, Sore Throat",Pneumonia,Piperacillin-Tazobactam,Hospitalization
+747,36,Female,24.769151264634225,46.66495687757097,2023-07-16,"Body Aches, Nausea",COVID-19,Remdesivir,Hospitalization
+748,22,Male,24.62173134885139,46.55139472974734,2023-07-23,"Sore Throat, Vomiting, Shortness of Breath, Fatigue",Influenza,Xofluza,Recovery
+749,24,Female,24.671863318639492,46.88488435018092,2023-08-04,"Shortness of Breath, Vomiting, Body Aches",Stomach Virus,Pepto-Bismol,Recovery
+750,16,Female,24.68409100857621,46.83474423917492,2023-07-27,"Headache, Fever, Body Aches, Diarrhea, Nausea",Respiratory Infection,Doxycycline,Hospitalization
+751,20,Male,24.81118167193447,46.74319469877622,2023-01-14,"Fever, Diarrhea",Influenza,Relenza,Recovery
+752,16,Female,24.80544544439424,46.59405976510626,2023-04-11,"Diarrhea, Cough, Fatigue, Shortness of Breath, Vomiting",Influenza,Paracetamol + Rest,Recovery
+753,20,Female,24.58902826235536,46.6703970659162,2023-08-01,"Shortness of Breath, Diarrhea, Cough",Respiratory Infection,Azithromycin,Recovery
+754,56,Male,24.719093411099983,46.659263991895514,2023-07-17,"Vomiting, Body Aches",Influenza,Tamiflu,Hospitalization
+755,20,Male,24.642642014525084,46.70838513046156,2023-10-13,"Diarrhea, Nausea, Body Aches",Pneumonia,Moxifloxacin,Recovery
+756,100,Female,24.587749508932465,46.82040014381313,2023-10-15,"Vomiting, Body Aches, Fatigue, Sore Throat, Headache",Respiratory Infection,Levofloxacin,Recovery
+757,42,Male,24.691898294957564,46.76324170411374,2023-03-31,"Headache, Body Aches, Vomiting, Sore Throat, Fatigue",COVID-19,Molnupiravir,Recovery
+758,36,Female,24.682751721154418,46.567562392301525,2023-12-05,Body Aches,Common Cold,Paracetamol,Recovery
+759,21,Female,24.95627164863455,46.81294964500196,2023-09-16,"Fatigue, Headache, Vomiting",Allergic Reaction,Loratadine,Recovery
+760,47,Female,24.75689598253607,46.706613214001315,2023-04-10,"Diarrhea, Body Aches",COVID-19,Molnupiravir,Hospitalization
+761,24,Male,24.575838249924576,46.74400657958589,2023-07-23,"Diarrhea, Cough",Respiratory Infection,Levofloxacin,Recovery
+762,35,Male,24.657122599582905,46.821954085927864,2023-04-17,"Fever, Body Aches, Fatigue, Nausea",Pneumonia,Moxifloxacin,Hospitalization
+763,100,Female,24.81573832954294,46.56414197504864,2023-10-23,Cough,Allergic Reaction,Benadryl,Recovery
+764,31,Female,24.922444277286992,46.671717442129356,2023-09-15,Shortness of Breath,Allergic Reaction,Loratadine,Recovery
+765,58,Male,24.555001668776203,46.62215454486408,2023-09-15,Body Aches,Common Cold,Paracetamol,Recovery
+766,23,Female,24.525607561486094,46.518514057463456,2023-04-01,"Headache, Fatigue",COVID-19,Molnupiravir,Recovery
+767,32,Female,24.900696517537177,46.70997099776049,2023-07-19,"Sore Throat, Diarrhea, Nausea, Fatigue, Vomiting",COVID-19,Remdesivir,Recovery
+768,80,Male,24.75256141773709,46.92645565515844,2023-09-25,"Vomiting, Body Aches, Shortness of Breath, Diarrhea",COVID-19,Paxlovid,Hospitalization
+769,24,Male,24.626770726812364,46.49129222554942,2023-08-24,"Diarrhea, Sore Throat",Influenza,Relenza,Recovery
+770,81,Female,24.767062908612242,46.67207193889505,2023-01-23,"Shortness of Breath, Fatigue, Sore Throat, Body Aches, Vomiting",Respiratory Infection,Doxycycline,Recovery
+771,47,Male,24.45002522609831,46.739354293507475,2023-01-15,"Headache, Sore Throat",COVID-19,Molnupiravir,Recovery
+772,24,Male,24.713937550659715,46.68760782016562,2023-04-07,"Body Aches, Headache",Respiratory Infection,Levofloxacin,Recovery
+773,45,Male,24.74638211728431,46.66398719474843,2023-02-03,Sore Throat,Stomach Virus,Ondansetron,Recovery
+774,53,Male,24.806027013953784,46.545378363655416,2023-04-01,"Cough, Nausea, Headache, Body Aches, Shortness of Breath",COVID-19,Paxlovid,Recovery
+775,45,Female,24.612210404770746,46.69857867429402,2023-07-12,"Fatigue, Vomiting, Sore Throat",COVID-19,Molnupiravir,Hospitalization
+776,15,Female,24.722168716140335,46.59962360229841,2023-11-06,Shortness of Breath,Allergic Reaction,Loratadine,Recovery
+777,23,Male,24.62105753739404,46.456307829502144,2023-10-08,"Vomiting, Body Aches, Nausea",Influenza,Tamiflu,Recovery
+778,29,Female,24.739138375567432,46.794759222051376,2023-04-22,"Headache, Sore Throat, Vomiting, Shortness of Breath, Cough",Respiratory Infection,Doxycycline,Recovery
+779,31,Female,24.6240653677637,46.771138581984204,2023-10-29,Nausea,Influenza,Relenza,Recovery
+780,45,Female,24.67278991608398,46.680466097685105,2023-10-02,"Fatigue, Cough, Headache",COVID-19,Paxlovid,Recovery
+781,36,Male,24.614018460520978,46.69820746882057,2023-07-26,"Cough, Fatigue, Nausea, Headache, Vomiting",Influenza,Paracetamol + Rest,Recovery
+782,16,Male,24.778713624182366,46.78273180127156,2023-10-16,"Cough, Sore Throat, Diarrhea, Headache, Shortness of Breath",Respiratory Infection,Levofloxacin,Recovery
+783,40,Other,24.799445111665666,46.697733965677806,2023-10-02,"Fatigue, Nausea, Vomiting",COVID-19,Dexamethasone,Recovery
+784,44,Female,24.69013794300426,46.76570175547613,2023-07-21,"Fever, Cough",COVID-19,Remdesivir,Recovery
+785,43,Male,24.717423799496004,46.645551779912616,2023-06-10,"Vomiting, Diarrhea, Fatigue",Stomach Virus,Pepto-Bismol,Recovery
+786,56,Male,24.568740858536646,46.806498373857394,2023-10-16,"Cough, Nausea, Body Aches, Fever, Headache",Respiratory Infection,Amoxicillin,Recovery
+787,50,Male,24.68363233519932,46.70737857259327,2023-01-05,"Fever, Fatigue, Shortness of Breath",Influenza,Relenza,Recovery
+788,41,Female,24.708579538295826,46.69470519436059,2023-07-24,"Fatigue, Body Aches, Shortness of Breath",COVID-19,Remdesivir,Hospitalization
+789,31,Female,24.975679309102997,46.5482938911288,2023-01-09,"Headache, Diarrhea",COVID-19,Remdesivir,Recovery
+790,14,Female,24.602403297422583,46.70399558543017,2023-10-13,"Nausea, Vomiting, Diarrhea, Cough",Influenza,Xofluza,Recovery
+791,41,Male,24.86001772387524,46.59210450825056,2023-01-24,"Cough, Diarrhea",Influenza,Relenza,Recovery
+792,36,Female,24.81328587734658,46.61147172734715,2023-04-07,"Nausea, Sore Throat, Vomiting",Influenza,Tamiflu,Recovery
+793,37,Female,24.741663640449012,46.59376243716839,2023-01-13,"Nausea, Sore Throat, Diarrhea",Influenza,Tamiflu,Recovery
+794,17,Male,24.889462048419514,46.56867650681008,2023-10-04,"Fatigue, Headache, Sore Throat, Shortness of Breath",COVID-19,Paxlovid,Recovery
+795,19,Female,24.750810547260684,46.887777140301694,2023-01-29,"Cough, Diarrhea, Headache, Body Aches, Fever",Influenza,Paracetamol + Rest,Recovery
+796,56,Other,24.752515919566793,46.80843390619884,2023-04-28,Diarrhea,Allergic Reaction,Loratadine,Recovery
+797,32,Male,24.708287934698244,46.86733675021443,2023-01-30,Fever,Common Cold,Nyquil,Recovery
+798,46,Female,24.835956888241864,46.55301049804444,2023-10-02,"Sore Throat, Fever",Influenza,Relenza,Recovery
+799,33,Male,24.823246923381088,46.68242537499109,2023-04-03,"Nausea, Fever",Pneumonia,Azithromycin + Ceftriaxone,Hospitalization
+800,33,Female,24.65103227125038,46.54594923747959,2023-09-25,"Shortness of Breath, Fatigue",COVID-19,Remdesivir,Recovery
+801,52,Female,24.58167528054012,46.605730512280296,2023-01-24,"Headache, Body Aches, Shortness of Breath",Influenza,Tamiflu,Recovery
+802,25,Female,24.693301936260433,46.583487301658344,2023-08-01,"Fever, Diarrhea, Cough, Shortness of Breath, Vomiting",COVID-19,Remdesivir,Recovery
+803,34,Female,24.633596143560236,46.799258400644156,2023-10-01,"Body Aches, Nausea",Influenza,Tamiflu,Hospitalization
+804,26,Male,24.707247542538465,46.635677032189825,2023-08-02,"Vomiting, Cough, Fever, Sore Throat, Shortness of Breath",Influenza,Relenza,Recovery
+805,26,Female,24.837343813468415,46.7821379333694,2023-01-31,"Nausea, Sore Throat",Influenza,Tamiflu,Recovery
+806,28,Female,24.66786983449132,46.73571208895885,2023-08-05,"Body Aches, Vomiting, Sore Throat",Bronchitis,Dextromethorphan,Recovery
+807,37,Male,24.70931766186884,46.90566387521048,2023-04-29,"Fatigue, Vomiting, Shortness of Breath",Stomach Virus,Pepto-Bismol,Recovery
+808,26,Female,24.71940227348084,46.52735557768603,2023-08-20,"Nausea, Sore Throat, Headache",Stomach Virus,Electrolyte solution,Recovery
+809,62,Female,24.798443088220527,46.80122332397868,2023-12-20,Sore Throat,Bronchitis,Benzonatate,Recovery
+810,21,Male,24.48891106660154,46.78994408704007,2023-10-19,"Cough, Diarrhea",Pneumonia,Piperacillin-Tazobactam,Recovery
+811,30,Female,24.65292997052347,46.5779621161973,2023-05-25,"Fatigue, Fever, Shortness of Breath",Stomach Virus,Pepto-Bismol,Recovery
+812,26,Female,24.73472836922795,46.77601333364731,2023-08-07,"Diarrhea, Vomiting",Stomach Virus,Loperamide,Recovery
+813,68,Male,24.833607895642686,46.708914496302626,2023-10-21,"Body Aches, Diarrhea, Fever",Common Cold,Ibuprofen,Recovery
+814,36,Other,24.66440975524938,46.65255237400466,2023-10-09,"Diarrhea, Shortness of Breath, Headache",Influenza,Relenza,Recovery
+815,55,Male,24.52594472939581,46.5929064513028,2023-04-11,"Shortness of Breath, Nausea",COVID-19,Dexamethasone,Recovery
+816,15,Male,24.775571144596615,46.60338905485508,2023-07-17,"Nausea, Headache, Body Aches, Shortness of Breath",COVID-19,Remdesivir,Recovery
+817,37,Male,24.650063761117437,46.88028120957859,2023-04-26,"Headache, Diarrhea, Fever",Bronchitis,Benzonatate,Recovery
+818,51,Female,24.594633334090965,46.67536828189575,2023-07-30,"Headache, Diarrhea, Nausea, Sore Throat, Cough",COVID-19,Remdesivir,Recovery
+819,34,Female,24.651165461028675,46.75351300015315,2023-01-20,"Diarrhea, Headache, Body Aches, Fever, Shortness of Breath",COVID-19,Molnupiravir,Hospitalization
+820,56,Male,24.695147464234413,46.59621006183325,2023-04-04,"Diarrhea, Nausea, Vomiting",COVID-19,Molnupiravir,Hospitalization
+821,25,Male,24.653125533546177,46.59731470537783,2023-08-03,"Sore Throat, Headache, Shortness of Breath",Influenza,Relenza,Recovery
+822,66,Female,24.493043394290094,46.783498480925,2023-07-16,"Shortness of Breath, Body Aches, Diarrhea, Fatigue, Headache",COVID-19,Molnupiravir,Recovery
+823,100,Male,24.803306619688712,46.54034237884485,2023-03-08,"Fever, Body Aches, Cough",Allergic Reaction,Prednisone,Recovery
+824,27,Female,24.84108750412787,46.63377862320947,2023-06-16,Fatigue,Allergic Reaction,Prednisone,Recovery
+825,26,Female,24.77875219913395,46.67870274110722,2023-04-21,"Shortness of Breath, Vomiting",COVID-19,Remdesivir,Recovery
+826,68,Female,24.59983143295752,46.68643726018401,2023-01-24,"Body Aches, Shortness of Breath, Vomiting",Influenza,Paracetamol + Rest,Recovery
+827,72,Other,24.69345084660525,46.65739067149838,2023-12-03,Fatigue,Allergic Reaction,Prednisone,Recovery
+828,25,Male,24.712947868477055,46.714881978109595,2023-08-26,"Vomiting, Fever",Allergic Reaction,Cetirizine,Fatality
+829,26,Other,24.77347943895619,46.74458557558178,2023-10-02,"Vomiting, Diarrhea, Cough, Fatigue",COVID-19,Dexamethasone,Hospitalization
+830,28,Female,24.780434048871808,46.748763754545934,2023-04-28,"Sore Throat, Fever",Allergic Reaction,Benadryl,Recovery
+831,16,Female,24.64018262012215,46.576719619133215,2023-08-08,"Shortness of Breath, Nausea",Influenza,Xofluza,Recovery
+832,20,Male,24.721799555641354,46.64688449020712,2023-10-10,"Diarrhea, Vomiting",Influenza,Paracetamol + Rest,Recovery
+833,20,Female,24.759328040461522,46.79477628618769,2023-08-02,"Headache, Nausea, Vomiting, Cough, Shortness of Breath",COVID-19,Paxlovid,Recovery
+834,22,Male,24.859182232214675,46.764764718757384,2023-04-05,"Vomiting, Fever, Body Aches",COVID-19,Remdesivir,Recovery
+835,32,Male,24.784050653982472,46.53801405485189,2023-01-08,"Sore Throat, Diarrhea",COVID-19,Remdesivir,Recovery
+836,37,Male,24.79250566873755,46.71044799003522,2023-10-22,"Diarrhea, Cough",Stomach Virus,Loperamide,Recovery
+837,71,Female,24.721982662792936,46.47747747506252,2023-03-20,"Fever, Fatigue, Shortness of Breath",Common Cold,Paracetamol,Recovery
+838,20,Female,24.85464591452035,46.67999349020604,2023-04-15,"Diarrhea, Cough",Influenza,Tamiflu,Hospitalization
+839,54,Female,24.75457627959595,46.865076701674596,2023-01-11,"Nausea, Body Aches, Fatigue, Diarrhea, Cough",COVID-19,Dexamethasone,Recovery
+840,29,Female,24.627491208982644,46.580510728273104,2023-08-12,"Sore Throat, Fever, Vomiting",Allergic Reaction,Prednisone,Recovery
+841,32,Male,24.853936997012518,46.591867695450844,2023-10-05,"Fatigue, Diarrhea, Sore Throat, Cough",COVID-19,Paxlovid,Recovery
+842,46,Female,24.7833903272539,46.75170297815728,2023-04-05,"Cough, Shortness of Breath",Respiratory Infection,Amoxicillin,Recovery
+843,18,Male,24.669295597887153,46.521019848479035,2023-02-03,"Fatigue, Vomiting, Sore Throat",Stomach Virus,Ondansetron,Recovery
+844,40,Female,24.665650703260074,46.6120244970115,2023-05-24,Fever,Common Cold,Nyquil,Recovery
+845,35,Female,24.743257554514077,46.734944113758175,2023-04-06,"Fatigue, Body Aches, Cough, Sore Throat, Nausea",Pneumonia,Moxifloxacin,Hospitalization
+846,42,Female,24.759918479526757,46.61187141523106,2023-10-16,"Headache, Body Aches, Diarrhea, Vomiting, Cough",Influenza,Tamiflu,Recovery
+847,38,Female,24.73332922656312,46.651703001278904,2023-07-03,Fatigue,Allergic Reaction,Loratadine,Recovery
+848,100,Male,24.744730867344288,46.7497185710315,2023-02-01,"Shortness of Breath, Body Aches",Stomach Virus,Ondansetron,Recovery
+849,24,Male,24.883595737457636,46.717454608353655,2023-09-29,"Cough, Fatigue, Headache, Shortness of Breath, Nausea",COVID-19,Remdesivir,Recovery
+850,25,Female,24.82075431522349,46.70198183962954,2023-04-26,"Nausea, Body Aches, Cough",Common Cold,Ibuprofen,Recovery
+851,24,Male,24.7326635591265,46.641387772072996,2023-02-15,"Vomiting, Fatigue",Common Cold,Paracetamol,Recovery
+852,25,Male,24.807731058076747,46.71230611152689,2023-01-08,"Cough, Body Aches",COVID-19,Paxlovid,Hospitalization
+853,24,Female,24.610347609647246,46.66292673199003,2023-06-28,"Shortness of Breath, Vomiting, Cough",Common Cold,Sudafed,Recovery
+854,60,Female,24.75339270499468,46.721080560992576,2023-01-22,"Cough, Fatigue",Influenza,Paracetamol + Rest,Recovery
+855,67,Male,24.89453063497331,46.6256067974882,2023-04-14,"Cough, Diarrhea, Fever, Sore Throat",COVID-19,Paxlovid,Recovery
+856,24,Male,24.691795410460763,46.65704310256205,2023-07-31,"Shortness of Breath, Fatigue, Body Aches",COVID-19,Paxlovid,Recovery
+857,21,Female,24.62883660713809,46.576304220744795,2023-04-06,"Headache, Cough, Vomiting, Fatigue",COVID-19,Paxlovid,Hospitalization
+858,41,Female,24.648391111140693,46.67179923899938,2023-04-29,"Fever, Headache, Vomiting",Common Cold,Nyquil,Recovery
+859,25,Male,24.60463669626576,46.59419991363711,2023-10-01,"Nausea, Headache",Respiratory Infection,Levofloxacin,Recovery
+860,45,Male,24.635123809187228,46.5638953549838,2023-01-07,"Shortness of Breath, Sore Throat, Headache",Influenza,Paracetamol + Rest,Recovery
+861,36,Male,24.676549190140996,46.701166114785536,2023-09-26,"Fever, Shortness of Breath, Diarrhea, Cough, Nausea",Respiratory Infection,Amoxicillin,Recovery
+862,15,Male,24.573043298082137,46.696573977585764,2023-05-08,"Fever, Fatigue",Allergic Reaction,Benadryl,Recovery
+863,71,Male,24.71516183339496,46.75358737349486,2023-01-31,"Shortness of Breath, Cough, Fever",Allergic Reaction,Prednisone,Recovery
+864,81,Female,24.803827717378663,46.63218744304249,2023-10-12,"Body Aches, Shortness of Breath",Respiratory Infection,Azithromycin,Recovery
+865,24,Female,24.622824381985307,46.71610528468368,2023-08-07,"Shortness of Breath, Body Aches",Common Cold,Paracetamol,Recovery
+866,27,Female,24.865528392364176,46.73037975722737,2023-07-26,"Headache, Vomiting, Diarrhea, Nausea",Influenza,Xofluza,Recovery
+867,38,Male,24.76467920885276,46.71977738078316,2023-06-09,"Vomiting, Body Aches, Sore Throat",Allergic Reaction,Prednisone,Recovery
+868,39,Female,24.816658058562407,46.592734631719786,2023-12-24,"Headache, Sore Throat, Body Aches",Common Cold,Nyquil,Recovery
+869,46,Male,24.647816544614784,46.69023634822712,2023-07-09,"Shortness of Breath, Headache",COVID-19,Paxlovid,Hospitalization
+870,90,Other,24.79905252270666,46.71171402960547,2023-09-29,"Headache, Fever, Body Aches",Influenza,Relenza,Recovery
+871,30,Female,24.604406609960467,46.6760178466908,2023-10-16,"Headache, Cough, Fatigue, Sore Throat, Fever",Respiratory Infection,Amoxicillin,Hospitalization
+872,22,Male,24.802624750083652,46.46665223416289,2023-02-09,Cough,Allergic Reaction,Loratadine,Recovery
+873,16,Female,24.730783933979353,46.69134896239735,2023-04-20,"Headache, Nausea",Influenza,Xofluza,Recovery
+874,22,Male,24.76892512199848,46.89655310393972,2023-07-24,"Fatigue, Headache",Respiratory Infection,Amoxicillin,Hospitalization
+875,32,Female,24.596040539437514,46.6392960731243,2023-10-10,"Sore Throat, Body Aches",COVID-19,Remdesivir,Recovery
+876,81,Male,24.62409301577234,46.60249229021447,2023-06-20,"Sore Throat, Cough",Common Cold,Ibuprofen,Recovery
+877,25,Male,24.77332282182534,46.71263485597114,2023-01-21,"Body Aches, Shortness of Breath, Sore Throat",COVID-19,Paxlovid,Recovery
+878,37,Female,24.61876519957758,46.70653782104666,2023-04-06,"Cough, Fever, Nausea, Sore Throat",COVID-19,Remdesivir,Recovery
+879,32,Male,24.759920629209912,46.79457351654164,2023-01-21,"Headache, Sore Throat, Body Aches, Vomiting, Diarrhea",COVID-19,Paxlovid,Recovery
+880,59,Female,24.576886219353973,46.54951318440911,2023-10-20,"Sore Throat, Shortness of Breath",Allergic Reaction,Loratadine,Recovery
+881,100,Male,24.798417421266667,46.7484380252575,2023-11-07,Fatigue,Common Cold,Sudafed,Recovery
+882,25,Female,24.590347668523147,46.73434220612515,2023-07-19,"Fever, Fatigue",Pneumonia,Levofloxacin,Recovery
+883,25,Female,24.76882999376795,46.661085346305946,2023-04-04,"Headache, Body Aches, Fatigue, Sore Throat",Respiratory Infection,Amoxicillin,Hospitalization
+884,55,Female,24.776163093364598,46.70916873179217,2023-08-04,"Headache, Fatigue",Common Cold,Nyquil,Fatality
+885,46,Male,24.64392281815704,46.77824574815983,2023-11-25,"Diarrhea, Nausea, Fatigue",Stomach Virus,Loperamide,Recovery
+886,83,Male,24.771802656708473,46.76253153800285,2023-07-13,"Shortness of Breath, Diarrhea, Fever, Vomiting",COVID-19,Molnupiravir,Recovery
+887,44,Male,24.739644226333354,46.56099806879263,2023-05-21,"Cough, Headache, Diarrhea",Common Cold,Ibuprofen,Recovery
+888,27,Male,24.659715814380725,46.75731581867555,2023-08-17,"Headache, Cough",Common Cold,Nyquil,Recovery
+889,44,Female,24.61274453159238,46.668831139496746,2023-09-25,"Fever, Headache, Fatigue, Shortness of Breath, Vomiting",Influenza,Tamiflu,Recovery
+890,57,Female,24.517337430832743,46.68258740980155,2023-11-27,"Body Aches, Shortness of Breath",Stomach Virus,Ondansetron,Recovery
+891,49,Female,24.74856500472997,46.68261969910017,2023-10-24,"Headache, Fatigue",Allergic Reaction,Benadryl,Recovery
+892,42,Female,24.557119722863796,46.66027570112018,2023-12-25,"Diarrhea, Shortness of Breath",Common Cold,Ibuprofen,Recovery
+893,56,Female,24.72313441994413,46.794470749710705,2023-03-16,"Cough, Shortness of Breath",Common Cold,Paracetamol,Recovery
+894,59,Female,24.687255178391776,46.66692820401508,2023-07-15,"Fatigue, Sore Throat, Vomiting, Fever",COVID-19,Remdesivir,Recovery
+895,66,Male,24.78151427754382,46.56334538716168,2023-04-28,"Sore Throat, Fever, Vomiting",Allergic Reaction,Loratadine,Recovery
+896,45,Female,24.683395450051012,46.63594701440303,2023-01-09,"Fatigue, Diarrhea, Cough",Respiratory Infection,Amoxicillin,Recovery
+897,30,Female,24.680655221365292,46.693169471681045,2023-05-04,"Cough, Fatigue",Bronchitis,Azithromycin,Recovery
+898,35,Female,24.78678707042883,46.7982214784297,2023-04-12,"Vomiting, Fatigue, Nausea, Fever",COVID-19,Remdesivir,Recovery
+899,60,Male,24.74710580290841,46.735609468494886,2023-01-06,"Cough, Sore Throat",COVID-19,Remdesivir,Recovery
+900,22,Male,24.745215595718278,46.590246472125294,2023-08-02,"Body Aches, Vomiting",COVID-19,Dexamethasone,Hospitalization
+901,39,Male,24.760526758980852,46.923818991667886,2023-04-06,"Body Aches, Diarrhea, Shortness of Breath",Respiratory Infection,Azithromycin,Recovery
+902,27,Female,24.56004278767929,46.7017775310978,2023-11-22,"Vomiting, Cough",Common Cold,Ibuprofen,Recovery
+903,33,Female,24.789278867998696,46.8028390737999,2023-07-16,"Cough, Shortness of Breath, Sore Throat, Diarrhea, Fever",COVID-19,Remdesivir,Recovery
+904,62,Male,24.77484687940136,46.66012855664228,2023-11-20,"Vomiting, Sore Throat, Fever",Stomach Virus,Pepto-Bismol,Recovery
+905,36,Other,24.61193168714235,46.728635924470545,2023-01-29,"Cough, Diarrhea, Fever, Vomiting, Nausea",Influenza,Paracetamol + Rest,Recovery
+906,33,Male,24.68919195263258,46.75924685045184,2023-04-02,"Fever, Diarrhea",Influenza,Paracetamol + Rest,Recovery
+907,16,Male,24.709669271237235,46.79711947117543,2023-01-29,"Headache, Cough",COVID-19,Paxlovid,Recovery
+908,48,Male,24.700150321559825,46.78103683053782,2023-01-23,"Vomiting, Headache, Fatigue, Nausea",Influenza,Tamiflu,Recovery
+909,45,Female,24.746985996656854,46.762519700007296,2023-04-27,Vomiting,Common Cold,Ibuprofen,Fatality
+910,97,Female,24.85673667818312,46.64379132688059,2023-11-29,"Fatigue, Nausea",Allergic Reaction,Prednisone,Recovery
+911,28,Male,24.82177667276728,46.61812539580439,2023-01-24,"Fatigue, Diarrhea, Vomiting, Cough, Sore Throat",COVID-19,Dexamethasone,Recovery
+912,36,Female,24.58237808065686,46.70856075103242,2023-01-18,"Sore Throat, Diarrhea, Headache, Nausea, Fever",Influenza,Paracetamol + Rest,Recovery
+913,37,Male,24.775806999030603,46.768612807234106,2023-01-27,"Fever, Nausea",Pneumonia,Moxifloxacin,Hospitalization
+914,72,Female,24.84649333195354,46.65302792992234,2023-09-29,"Shortness of Breath, Fatigue",Influenza,Paracetamol + Rest,Hospitalization
+915,31,Female,24.75228085206892,46.78181719657144,2023-05-25,"Cough, Vomiting",Stomach Virus,Pepto-Bismol,Recovery
+916,38,Female,24.822698042518596,46.82056167454862,2023-01-06,"Nausea, Sore Throat, Body Aches, Fatigue, Fever",Influenza,Paracetamol + Rest,Recovery
+917,44,Male,24.914827044570075,46.58366790809266,2023-01-08,"Body Aches, Sore Throat, Vomiting, Nausea, Headache",COVID-19,Remdesivir,Recovery
+918,36,Other,24.815970954610698,46.59160792962037,2023-10-15,"Shortness of Breath, Nausea, Vomiting, Fever, Body Aches",Influenza,Xofluza,Recovery
+919,26,Female,24.73853085956417,46.661262494109465,2023-01-27,"Diarrhea, Sore Throat, Fatigue",Influenza,Tamiflu,Recovery
+920,36,Male,24.818108847408475,46.70606126681892,2023-07-16,"Fever, Vomiting",Influenza,Tamiflu,Recovery
+921,56,Female,24.728088783309687,46.622843298623295,2023-04-23,"Sore Throat, Diarrhea",COVID-19,Dexamethasone,Hospitalization
+922,19,Male,24.715990304328496,46.810520267886716,2023-05-29,"Diarrhea, Body Aches, Headache",Allergic Reaction,Prednisone,Recovery
+923,35,Female,24.678458576428625,46.71770668615184,2023-08-26,Nausea,Common Cold,Nyquil,Recovery
+924,23,Male,24.86994133588321,46.67924470482407,2023-12-06,Headache,Bronchitis,Azithromycin,Recovery
+925,60,Female,24.6317571334058,46.53170904761315,2023-10-18,"Shortness of Breath, Fatigue, Fever, Vomiting, Body Aches",Influenza,Relenza,Recovery
+926,15,Female,24.86683677246781,46.54371841835725,2023-07-10,"Cough, Fatigue, Nausea, Sore Throat",COVID-19,Molnupiravir,Recovery
+927,25,Male,24.763586412374035,46.703400925028184,2023-03-27,"Diarrhea, Body Aches, Sore Throat, Shortness of Breath",Influenza,Xofluza,Recovery
+928,39,Male,24.573669382519807,46.462040437384516,2023-04-21,"Headache, Shortness of Breath, Sore Throat, Diarrhea, Fever",COVID-19,Molnupiravir,Recovery
+929,72,Male,24.750364929299142,46.776563740964406,2023-07-22,"Fever, Vomiting, Shortness of Breath, Sore Throat",Respiratory Infection,Doxycycline,Recovery
+930,32,Male,24.503597349234838,46.65948461556277,2023-04-12,"Nausea, Headache, Fatigue",COVID-19,Dexamethasone,Hospitalization
+931,25,Male,24.7761508016831,46.99960929695947,2023-11-30,Cough,Common Cold,Paracetamol,Recovery
+932,84,Female,24.8021231482989,46.90609162506161,2023-07-28,"Diarrhea, Sore Throat, Nausea, Fatigue, Shortness of Breath",Influenza,Paracetamol + Rest,Recovery
+933,16,Male,24.654364404434794,46.65715509307525,2023-04-04,"Cough, Vomiting",Respiratory Infection,Doxycycline,Recovery
+934,11,Male,24.725954769595557,46.66466629974687,2023-07-23,"Body Aches, Sore Throat, Shortness of Breath, Vomiting",Influenza,Xofluza,Hospitalization
+935,41,Female,24.90901574337503,46.7748581514002,2023-10-23,"Fever, Fatigue, Nausea",Common Cold,Sudafed,Recovery
+936,25,Male,24.663025329573806,46.8456172609918,2023-10-23,"Cough, Body Aches, Fatigue",Common Cold,Sudafed,Recovery
+937,19,Female,24.60770924129434,46.5114970942564,2023-01-27,"Vomiting, Body Aches, Nausea, Fever",Influenza,Xofluza,Recovery
+938,47,Female,24.86176634024626,46.49666245346453,2023-08-03,"Cough, Shortness of Breath, Sore Throat",Influenza,Xofluza,Recovery
+939,37,Female,24.90985871905308,46.61309651944456,2023-04-09,"Diarrhea, Vomiting, Body Aches, Headache",Respiratory Infection,Levofloxacin,Hospitalization
+940,24,Female,24.713969567184783,46.733573758317384,2023-04-03,"Fever, Shortness of Breath, Diarrhea",Respiratory Infection,Doxycycline,Recovery
+941,17,Female,24.814746303540836,46.72498735905076,2023-02-12,Diarrhea,Allergic Reaction,Prednisone,Recovery
+942,51,Male,24.847747591553087,46.782277145498384,2023-08-04,"Body Aches, Diarrhea, Nausea",Common Cold,Nyquil,Recovery
+943,45,Male,24.63935157674616,46.55533024716347,2023-01-10,"Fever, Fatigue",COVID-19,Paxlovid,Recovery
+944,31,Male,24.66506941646321,46.44368561370311,2023-04-21,"Fever, Cough, Body Aches",COVID-19,Paxlovid,Recovery
+945,83,Female,24.836687451315473,46.76110141953021,2023-02-02,"Body Aches, Nausea, Diarrhea",Allergic Reaction,Benadryl,Recovery
+946,19,Male,24.88210142787085,46.59248037270348,2023-10-13,"Cough, Vomiting",Influenza,Xofluza,Recovery
+947,15,Female,24.769888086017435,46.473451213561134,2023-04-28,"Body Aches, Diarrhea",Bronchitis,Amoxicillin,Recovery
+948,23,Other,24.625618564649795,46.68980637459594,2023-07-19,"Body Aches, Fatigue, Diarrhea",COVID-19,Remdesivir,Recovery
+949,32,Female,24.912306111169944,46.75461756882187,2023-10-29,"Cough, Nausea",Bronchitis,Azithromycin,Recovery
+950,37,Female,24.660502910218803,46.663094286787874,2023-09-30,"Headache, Sore Throat, Fatigue, Shortness of Breath",Influenza,Xofluza,Recovery
+951,29,Male,24.680086221882853,46.629515161381754,2023-04-17,"Nausea, Fatigue",Influenza,Relenza,Recovery
+952,39,Female,24.74783378344896,46.65936377678541,2023-07-13,"Headache, Shortness of Breath",Influenza,Xofluza,Recovery
+953,17,Female,24.869016042071475,46.63824172375992,2023-01-17,"Nausea, Shortness of Breath, Headache",Respiratory Infection,Doxycycline,Recovery
+954,68,Male,24.798997597655223,46.540495288805985,2023-04-23,"Sore Throat, Nausea, Body Aches, Headache, Fatigue",COVID-19,Remdesivir,Recovery
+955,31,Male,24.75508655003619,46.603831932300956,2023-10-25,Fatigue,Stomach Virus,Ondansetron,Recovery
+956,57,Female,24.75992885301181,46.72742799050138,2023-01-14,"Fatigue, Headache, Diarrhea",Respiratory Infection,Amoxicillin,Hospitalization
+957,39,Female,24.717951466864346,46.70746785413765,2023-04-14,"Headache, Fever, Nausea",COVID-19,Dexamethasone,Hospitalization
+958,41,Female,24.76941395145185,46.69210598059668,2023-07-17,"Fatigue, Fever",COVID-19,Molnupiravir,Recovery
+959,44,Female,24.46064399223057,46.575785151814664,2023-11-15,"Nausea, Headache, Fatigue",Stomach Virus,Pepto-Bismol,Recovery
+960,41,Female,24.68393925409302,46.657149683786436,2023-01-24,"Diarrhea, Nausea, Fever, Cough, Shortness of Breath",COVID-19,Molnupiravir,Recovery
+961,45,Female,24.737732193491677,46.45759349535572,2023-10-30,Body Aches,Common Cold,Ibuprofen,Recovery
+962,64,Male,24.598498591638048,46.69314766638854,2023-03-12,Cough,Stomach Virus,Ondansetron,Recovery
+963,36,Male,24.752232331781155,46.818185770781355,2023-04-19,"Sore Throat, Nausea, Headache, Fatigue",Respiratory Infection,Amoxicillin,Recovery
+964,47,Male,24.693152877901387,46.52788678679579,2023-04-07,"Body Aches, Vomiting, Fever, Nausea, Fatigue",COVID-19,Remdesivir,Hospitalization
+965,31,Female,24.88914756983155,46.616707232668226,2023-08-04,"Fatigue, Cough, Nausea",Bronchitis,Amoxicillin,Recovery
+966,68,Female,24.870901972521484,46.708210677871016,2023-04-09,"Body Aches, Vomiting, Cough",Influenza,Xofluza,Recovery
+967,23,Female,24.667019443088183,46.80058426344275,2023-03-06,"Diarrhea, Headache",Common Cold,Ibuprofen,Recovery
+968,81,Male,24.69851622884333,46.63047753836999,2023-01-23,"Body Aches, Headache, Vomiting, Fatigue, Sore Throat",Influenza,Relenza,Recovery
+969,32,Female,24.70620524343916,46.60607496707341,2023-10-23,"Vomiting, Nausea, Headache",Common Cold,Sudafed,Recovery
+970,16,Female,24.668434052384036,46.47840768575839,2023-03-29,"Fever, Sore Throat, Body Aches, Headache, Shortness of Breath",Respiratory Infection,Amoxicillin,Recovery
+971,35,Female,24.73310249840281,46.68564381293081,2023-10-16,"Shortness of Breath, Diarrhea, Headache",Pneumonia,Levofloxacin,Recovery
+972,23,Female,24.63777179311124,46.87950760401437,2023-02-03,Vomiting,Stomach Virus,Electrolyte solution,Recovery
+973,50,Male,24.600538466506247,46.70303584619647,2023-10-08,"Body Aches, Fever, Fatigue, Diarrhea",Pneumonia,Piperacillin-Tazobactam,Recovery
+974,23,Female,24.775871122390026,46.673072102081626,2023-07-22,"Fever, Nausea, Headache",Influenza,Relenza,Recovery
+975,26,Male,24.77655295842218,46.7075082310767,2023-08-01,"Body Aches, Shortness of Breath, Fatigue, Diarrhea",Influenza,Paracetamol + Rest,Hospitalization
+976,12,Male,24.633168424034,46.67419079960514,2023-10-07,"Sore Throat, Nausea",COVID-19,Molnupiravir,Recovery
+977,26,Female,24.80313554307626,46.59399856277399,2023-04-25,Diarrhea,Stomach Virus,Pepto-Bismol,Recovery
+978,9,Female,24.650442227083467,46.75762799156777,2023-04-13,"Fever, Vomiting, Shortness of Breath, Nausea, Cough",Influenza,Relenza,Hospitalization
+979,14,Female,24.7389165238038,46.697876152311174,2023-03-16,"Fatigue, Nausea, Body Aches",Bronchitis,Amoxicillin,Recovery
+980,48,Female,24.795634401261246,46.677061325193364,2023-10-26,Body Aches,Allergic Reaction,Benadryl,Recovery
+981,49,Female,24.71023874352963,46.57776339727217,2023-01-30,Sore Throat,Bronchitis,Amoxicillin,Recovery
+982,40,Female,24.759074091214114,46.80565079319348,2023-04-27,"Fever, Body Aches",Common Cold,Sudafed,Recovery
+983,20,Female,24.66195703561124,46.74177027453331,2023-07-29,"Body Aches, Nausea, Diarrhea",COVID-19,Remdesivir,Hospitalization
+984,32,Male,24.69395334165719,46.62000791626327,2023-07-23,"Shortness of Breath, Diarrhea, Nausea, Vomiting, Sore Throat",Respiratory Infection,Amoxicillin,Recovery
+985,33,Male,24.693014056911966,46.775482485368194,2023-04-09,"Diarrhea, Fatigue, Body Aches",Respiratory Infection,Amoxicillin,Recovery
+986,18,Male,24.638942165345977,46.62554291616148,2023-02-25,"Diarrhea, Shortness of Breath",Common Cold,Sudafed,Recovery
+987,70,Male,24.69592258368842,46.597099650748895,2023-04-01,"Sore Throat, Vomiting, Nausea",Pneumonia,Azithromycin + Ceftriaxone,Recovery
+988,51,Male,24.558738170113624,46.59932968825197,2023-10-01,"Shortness of Breath, Fever, Headache",Respiratory Infection,Doxycycline,Recovery
+989,29,Male,24.664484625285787,46.49819314469119,2023-07-18,"Headache, Sore Throat, Vomiting, Fatigue",Influenza,Xofluza,Recovery
+990,33,Male,24.685112450663034,46.72245423804182,2023-04-16,"Shortness of Breath, Diarrhea, Fever, Fatigue, Headache",Influenza,Tamiflu,Recovery
+991,36,Other,24.68798202475046,46.49218551216617,2023-12-06,"Vomiting, Shortness of Breath",Allergic Reaction,Prednisone,Recovery
+992,11,Male,24.689450255412922,46.552455616873424,2023-10-22,"Nausea, Headache",Allergic Reaction,Benadryl,Recovery
+993,29,Female,24.707423580013987,46.467741199092146,2023-04-15,"Diarrhea, Shortness of Breath, Vomiting, Fatigue, Body Aches",Respiratory Infection,Amoxicillin,Recovery
+994,23,Male,24.761544151808607,46.666693030720914,2023-04-11,"Body Aches, Headache, Vomiting, Cough, Fatigue",Influenza,Xofluza,Recovery
+995,20,Female,24.80105170741325,46.66026795397281,2023-07-18,"Body Aches, Fever, Fatigue, Sore Throat, Nausea",COVID-19,Molnupiravir,Recovery
+996,28,Male,24.648623477315173,46.64263037868136,2023-10-24,Cough,Allergic Reaction,Prednisone,Recovery
+997,81,Male,24.593279914461085,46.571042230532946,2023-09-29,"Fatigue, Vomiting",Influenza,Paracetamol + Rest,Recovery
+998,45,Female,24.609395558775688,46.55807662465634,2023-07-14,"Body Aches, Nausea",COVID-19,Molnupiravir,Recovery
+999,24,Male,24.664879707880505,46.72173698635466,2023-06-14,"Vomiting, Fatigue",Common Cold,Nyquil,Recovery
+1000,44,Male,24.678407868218347,46.62024480682915,2023-10-20,"Vomiting, Shortness of Breath, Sore Throat",Common Cold,Ibuprofen,Recovery
